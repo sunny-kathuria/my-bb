@@ -1,0 +1,869 @@
+[2021-06-23 16:40:26] [public-documents:public_doc] [http] [info] http://cto.uat.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-23 16:40:27] [nginx-version] [http] [info] https://3dmeeting.spa-stg.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:27] [nginx-version] [http] [info] https://3dmeeting.dev.spa-stg.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:27] [generic-tokens] [http] [info] https://3dmeeting.spa.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-23 16:40:27] [nginx-version] [http] [info] https://3dmeeting.spa.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:28] [aws-bucket-service] [http] [info] https://aclm-ui.external.hp.com
+[2021-06-23 16:40:28] [aws-bucket-service] [http] [info] https://aclm.external.hp.com
+[2021-06-23 16:40:29] [apache-version-detect] [http] [info] https://activation.rgs.ext.hp.com [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 Phusion_Passenger/5.0.28]
+[2021-06-23 16:40:29] [apache-version-detect] [http] [info] https://3dapp.ext.hp.com [Apache]
+[2021-06-23 16:40:30] [apache-version-detect] [http] [info] https://ah-fe-ext-lb-443.inc.hp.com [Apache/2.2.15 (Red Hat)]
+[2021-06-23 16:40:32] [default-windows-server-page] [http] [info] https://agendabuilder.prp.ext.hp.com
+[2021-06-23 16:40:33] [nginx-version] [http] [info] https://askspoc.dev.spa-stg.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:34] [generic-tokens] [http] [info] https://askspoc.spa.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-23 16:40:34] [nginx-version] [http] [info] https://askspoc.spa.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:34] [apache-version-detect] [http] [info] https://assets-pro.hp.com [Apache]
+[2021-06-23 16:40:34] [apache-version-detect] [http] [info] https://assets-stage.hp.com [Apache]
+[2021-06-23 16:40:35] [apache-version-detect] [http] [info] https://author-dev.hp.com [Apache/2.4.6 (Red Hat Enterprise Linux) Communique/4.3.2]
+[2021-06-23 16:40:35] [apache-version-detect] [http] [info] https://author-pro.hp.com [Apache/2.4.6 (Red Hat Enterprise Linux) Communique/4.3.2]
+[2021-06-23 16:40:36] [apache-version-detect] [http] [info] https://author-stage.hp.com [Apache/2.4.6 (Red Hat Enterprise Linux) Communique/4.3.2]
+[2021-06-23 16:40:37] [basic-auth-detection] [http] [info] https://b2bi-itg.ordercapture.ext.hp.com
+[2021-06-23 16:40:38] [nginx-version] [http] [info] https://app-designer.spa.itcs.hp.com [nginx]
+[2021-06-23 16:40:39] [public-documents:public_doc] [http] [info] https://bmt.hpcloud.hp.com [live\bmtapi\v1\documentation\BMT-API-Documentation-V1.0.docx]
+[2021-06-23 16:40:39] [apache-version-detect] [http] [info] https://bmt.hpcloud.hp.com [Apache]
+[2021-06-23 16:40:40] [generic-tokens] [http] [info] https://askspoc.spa-stg.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-23 16:40:40] [nginx-version] [http] [info] https://askspoc.spa-stg.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:40] [generic-tokens] [http] [info] https://bpp.spa-stg.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-23 16:40:40] [nginx-version] [http] [info] https://bpp.spa-stg.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:40] [generic-tokens] [http] [info] https://bpp.spa.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-23 16:40:40] [nginx-version] [http] [info] https://bpp.spa.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:40] [nginx-version] [http] [info] https://bpp.spa.itcs.hp.com [nginx]
+[2021-06-23 16:40:40] [public-documents:public_doc] [http] [info] https://bmt-itg-ext.hpcloud.hp.com [live\bmtapi\v1\documentation\BMT-API-Documentation-V1.0.docx]
+[2021-06-23 16:40:40] [apache-version-detect] [http] [info] https://bmt-itg-ext.hpcloud.hp.com [Apache]
+[2021-06-23 16:40:41] [apache-version-detect] [http] [info] https://bsmast032ddm-03.saas.hp.com [Apache]
+[2021-06-23 16:40:42] [apache-version-detect] [http] [info] https://ccd-dashboard.inc.hp.com [Apache]
+[2021-06-23 16:40:42] [apache-version-detect] [http] [info] https://ccd-webtracker.inc.hp.com [Apache]
+[2021-06-23 16:40:43] [basic-auth-detection] [http] [info] https://b2biconnect.hp.com
+[2021-06-23 16:40:44] [basic-auth-detection] [http] [info] https://b2bi.ordercapture.ext.hp.com
+[2021-06-23 16:40:44] [apache-version-detect] [http] [info] https://b2bitg.austin.hp.com [Apache]
+[2021-06-23 16:40:46] [apache-version-detect] [http] [info] https://ceement.rssx.hp.com [Apache]
+[2021-06-23 16:40:46] [generic-tokens] [http] [info] https://clickandgo.service.spa.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-23 16:40:46] [nginx-version] [http] [info] https://clickandgo.service.spa.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:46] [default-nginx-page] [http] [info] https://cmapi-llb.inc.hp.com
+[2021-06-23 16:40:46] [nginx-version] [http] [info] https://cmapi-llb.inc.hp.com [nginx/1.10.3]
+[2021-06-23 16:40:48] [default-tomcat-page] [http] [info] https://compass.hpcloud.hp.com
+[2021-06-23 16:40:50] [apache-version-detect] [http] [info] https://cmservice.rssx.hp.com [Apache]
+[2021-06-23 16:40:50] [apache-version-detect] [http] [info] https://content.ext.hp.com [Apache]
+[2021-06-23 16:40:50] [apache-version-detect] [http] [info] https://cots-gslb.glb1.hp.com [Apache]
+[2021-06-23 16:40:51] [apache-version-detect] [http] [info] https://cots.rssx.hp.com [Apache]
+[2021-06-23 16:40:51] [apache-version-detect] [http] [info] https://cots.itg-llb.inc.hp.com [Apache]
+[2021-06-23 16:40:51] [nginx-version] [http] [info] https://clever.spa.hpcloud.hp.com [nginx]
+[2021-06-23 16:40:52] [apache-version-detect] [http] [info] https://css-apj-dev.ext.hp.com [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips]
+[2021-06-23 16:40:52] [apache-version-detect] [http] [info] https://cms.inc.hp.com [Apache]
+[2021-06-23 16:40:53] [apache-version-detect] [http] [info] https://cms-llb.inc.hp.com [Apache]
+[2021-06-23 16:40:53] [apache-version-detect] [http] [info] https://css-ext-pro.glbinc.hp.com [Apache]
+[2021-06-23 16:40:53] [apache-version-detect] [http] [info] https://css-ext-pro.houston.hp.com [Apache]
+[2021-06-23 16:40:54] [public-documents:public_doc] [http] [info] https://cto.qa.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-23 16:40:54] [public-documents:public_doc] [http] [info] https://cto.hotfix.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-23 16:40:55] [public-documents:public_doc] [http] [info] https://cto.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-23 16:40:55] [apache-version-detect] [http] [info] https://css-ext-pro.inc.hp.com [Apache]
+[2021-06-23 16:40:56] [apache-version-detect] [http] [info] https://css-ext-itg.inc.hp.com [Apache]
+[2021-06-23 16:41:15] [server-status-localhost] [http] [low] https://b2b.svcs.hp.com/server-status
+[2021-06-23 16:44:58] [aspx-debug-mode] [http] [info] https://404redirect.ext.hp.com/Foobar-debug.aspx
+[2021-06-23 16:45:06] [pulse-secure-panel] [http] [info] https://ams.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:11] [pulse-secure-panel] [http] [info] https://apjglb.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:11] [pulse-secure-panel] [http] [info] https://apj.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:15] [pulse-secure-panel] [http] [info] https://australia.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:19] [pulse-secure-panel] [http] [info] https://bpe2-ssl.austin.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:22] [pulse-secure-panel] [http] [info] https://cce02vpnra11-e.houston.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:22] [pulse-secure-panel] [http] [info] https://cce02vpnra07e.houston.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:23] [aspx-debug-mode] [http] [info] https://compoptimizeremea.itcs.hp.com/Foobar-debug.aspx
+[2021-06-23 16:45:25] [aspx-debug-mode] [http] [info] https://compoptimizerprod.glb.itcs.hp.com/Foobar-debug.aspx
+[2021-06-23 16:45:26] [pulse-secure-panel] [http] [info] https://china.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-23 16:45:30] [aspx-debug-mode] [http] [info] https://compoptimizerprod.itcs.hp.com/Foobar-debug.aspx
+[2021-06-23 16:52:16] [microsoft-exchange-control-panel] [http] [info] https://autodiscover.hp.com/owa/auth/logon.aspx?replaceCurrent=1&url=https://autodiscover.hp.com/ecp
+[2021-06-23 16:57:08] [basic-cors-misconfig] [http] [info] https://ap-northeast-2.roam.api.hp.com
+[2021-06-23 16:57:15] [basic-cors-misconfig] [http] [info] https://beta.roam.api.hp.com
+[2021-06-23 17:00:46] [openssh-username-enumeration] [network] [medium] connect.hp.com:22
+[2021-06-23 17:02:36] [microsoft-exchange-server-detect] [http] [info] https://autodiscover.hp.com/owa/auth/logon.aspx
+[2021-06-23 17:03:25] [CVE-2020-2551] [http] [critical] https://arc-itg.ext.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:25] [weblogic-detect] [http] [info] https://arc-itg.ext.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:26] [CVE-2020-2551] [http] [critical] https://arc-weblogic-itg.msit.hpcloud.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:26] [weblogic-detect] [http] [info] https://arc-weblogic-itg.msit.hpcloud.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:28] [CVE-2020-2551] [http] [critical] https://arc-backend-pro.msit.hpcloud.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:28] [weblogic-detect] [http] [info] https://arc-backend-pro.msit.hpcloud.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:29] [CVE-2020-2551] [http] [critical] https://arc.ext.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:03:29] [weblogic-detect] [http] [info] https://arc.ext.hp.com/console/login/LoginForm.jsp
+[2021-06-23 17:06:00] [ec2-detection] [dns] [info] https://css-itg.ext.hp.com [ec2-54-223-169-99.cn-north-1.compute.amazonaws.com]
+[2021-06-23 17:10:53] [phpinfo-files] [http] [low] https://bmt-itg-ext.hpcloud.hp.com/info.php [7.3.28]
+[2021-06-23 17:10:57] [phpinfo-files] [http] [low] https://bmt.hpcloud.hp.com/info.php [7.3.28]
+[2021-06-23 17:11:06] [java-melody-exposed] [http] [medium] https://arc-pof-itg.ext.hp.com/monitoring
+[2021-06-23 17:11:06] [java-melody-exposed] [http] [medium] https://arc-pof-itg.corp.hp.com/monitoring
+[2021-06-23 17:11:06] [java-melody-exposed] [http] [medium] https://arc-pof.ext.hp.com/monitoring
+[2021-06-23 17:11:07] [java-melody-exposed] [http] [medium] https://arc-pof.corp.hp.com/monitoring
+[2021-06-23 17:11:07] [java-melody-exposed] [http] [medium] https://arc-pof-pro.msit.hpcloud.hp.com/monitoring
+[2021-06-23 17:11:09] [java-melody-exposed] [http] [medium] https://arc-pof-itg.msit.hpcloud.hp.com/monitoring
+[2021-06-23 17:19:19] [dns-waf-detect:cloudflare] [dns] [info] https://computo.marketinghp-mx.ext.hp.com
+[2021-06-23 17:27:24] [tomcat-scripts] [http] [info] https://cdo-itg-ext.hpcloud.hp.com/examples/jsp/index.html
+[2021-06-23 17:27:25] [tomcat-scripts] [http] [info] https://cdonline.hpcloud.hp.com/examples/jsp/index.html
+[2021-06-23 17:27:26] [tomcat-scripts] [http] [info] https://cdonline.hpcloud.hp.com/examples/websocket/index.xhtml
+[2021-06-23 17:27:30] [tomcat-scripts] [http] [info] https://cdonline.hp.com/examples/jsp/index.html
+[2021-06-23 17:27:31] [tomcat-scripts] [http] [info] https://cdo-itg-ext.hpcloud.hp.com/examples/websocket/index.xhtml
+[2021-06-23 17:27:32] [tomcat-scripts] [http] [info] https://cdonline.hp.com/examples/websocket/index.xhtml
+[2021-06-23 17:27:55] [tomcat-scripts] [http] [info] https://compass.hpcloud.hp.com/examples/jsp/index.html
+[2021-06-23 17:27:56] [favicon-detection:hp-printer-/-server] [http] [info] http://cots-hou4.houston.hp.com/favicon.ico
+[2021-06-23 17:27:57] [tomcat-scripts] [http] [info] https://compass.hpcloud.hp.com/examples/websocket/index.xhtml
+[2021-06-23 17:27:58] [favicon-detection:hp-printer/server] [http] [info] https://3dmeeting.spa.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:27:59] [favicon-detection:hp-printer/server] [http] [info] https://404redirect.ext.hp.com/favicon.ico
+[2021-06-23 17:28:04] [favicon-detection:hp-printer/server] [http] [info] http://crmv9-sales.ext.hp.com/favicon.ico
+[2021-06-23 17:28:05] [favicon-detection:hp-printer/server] [http] [info] https://activation.jamanagement.hp.com/favicon.ico
+[2021-06-23 17:28:08] [favicon-detection:hp-printer/server] [http] [info] https://apj-hpdc-web-pro-c2-llb-s.itcs.hp.com/favicon.ico
+[2021-06-23 17:28:08] [favicon-detection:hp-printer/server] [http] [info] https://apj-hpdc-web-pro-c2-llb.itcs.hp.com/favicon.ico
+[2021-06-23 17:28:08] [favicon-detection:hp-printer/server] [http] [info] https://apj-hpdc-web-pro-c2-llb.inc.hp.com/favicon.ico
+[2021-06-23 17:28:09] [favicon-detection:hp-printer/server] [http] [info] https://apj-hpdc-web-prod-global-llb.glb.itcs.hp.com/favicon.ico
+[2021-06-23 17:28:11] [favicon-detection:asp.net-favicon] [http] [info] https://app-builder-stg.inc.hp.com/favicon.ico
+[2021-06-23 17:28:11] [favicon-detection:hp-printer/server] [http] [info] https://askspoc.spa-stg.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:11] [favicon-detection:hp-printer/server] [http] [info] https://askspoc.spa.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:17] [favicon-detection:hp-printer/server] [http] [info] https://bpp.spa-stg.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:17] [favicon-detection:asp.net-favicon] [http] [info] https://batteryprogram687.ext.hp.com/favicon.ico
+[2021-06-23 17:28:17] [favicon-detection:hp-printer/server] [http] [info] https://bpp.spa.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:17] [favicon-detection:hp-printer/server] [http] [info] https://brandcentral.ext.hp.com/favicon.ico
+[2021-06-23 17:28:23] [favicon-detection:hp-printer-/-server] [http] [info] https://ceement.rssx.hp.com/favicon.ico
+[2021-06-23 17:28:23] [favicon-detection:hp-printer/server] [http] [info] https://cdn-origin-ftp.extweb.hp.com/favicon.ico
+[2021-06-23 17:28:23] [favicon-detection:apache-tomcat] [http] [info] https://cdonline.hp.com/favicon.ico
+[2021-06-23 17:28:23] [favicon-detection:apache-tomcat] [http] [info] https://cdo-dev-ext.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:24] [favicon-detection:hp-printer/server] [http] [info] https://cdn2.partner.hp.com/favicon.ico
+[2021-06-23 17:28:24] [favicon-detection:hp-printer-/-server] [http] [info] https://capabilities-linux-dyn.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:25] [favicon-detection:hp-printer/server] [http] [info] https://clever.spa.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:25] [favicon-detection:hp-printer/server] [http] [info] https://clickandgo.service.spa.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:26] [favicon-detection:hp-printer-/-server] [http] [info] https://cmservice.rssx.hp.com/favicon.ico
+[2021-06-23 17:28:26] [favicon-detection:apache-tomcat] [http] [info] https://cdonline.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:29] [favicon-detection:apache-tomcat] [http] [info] https://cdo-itg-ext.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:30] [favicon-detection:hp-printer/server] [http] [info] https://cpc-ui-hpi-1.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:31] [favicon-detection:hp-printer/server] [http] [info] https://cdn1.partner.hp.com/favicon.ico
+[2021-06-23 17:28:31] [favicon-detection:hp-printer/server] [http] [info] https://cpc.ext.hp.com/favicon.ico
+[2021-06-23 17:28:31] [favicon-detection:hp-printer/server] [http] [info] https://cppro.houston.hp.com/favicon.ico
+[2021-06-23 17:28:31] [favicon-detection:hp-printer-/-server] [http] [info] https://cots.rssx.hp.com/favicon.ico
+[2021-06-23 17:28:31] [favicon-detection:apache-tomcat] [http] [info] https://compass.hpcloud.hp.com/favicon.ico
+[2021-06-23 17:28:33] [favicon-detection:hp-printer/server] [http] [info] https://css-ext-pro.glbinc.hp.com/favicon.ico
+[2021-06-23 17:28:33] [favicon-detection:hp-printer/server] [http] [info] https://css-ext-pro.inc.hp.com/favicon.ico
+[2021-06-23 17:28:34] [favicon-detection:hp-printer/server] [http] [info] https://css-ext-pro.houston.hp.com/favicon.ico
+[2021-06-23 17:28:36] [favicon-detection:hp-printer-/-server] [http] [info] https://cots-gslb.glb1.hp.com/favicon.ico
+[2021-06-23 17:30:15] [netscalar-aaa-login] [http] [info] https://bp-awa-citrix.austin.hp.com/logon/LogonPoint/tmindex.html
+[2021-06-23 17:31:34] [apache-tomcat-snoop] [http] [low] https://cdonline.hpcloud.hp.com/examples/jsp/snp/snoop.jsp
+[2021-06-23 17:31:34] [apache-tomcat-snoop] [http] [low] https://cdonline.hp.com/examples/jsp/snp/snoop.jsp
+[2021-06-23 17:31:34] [apache-tomcat-snoop] [http] [low] https://cdo-itg-ext.hpcloud.hp.com/examples/jsp/snp/snoop.jsp
+[2021-06-23 17:31:36] [apache-tomcat-snoop] [http] [low] https://compass.hpcloud.hp.com/examples/jsp/snp/snoop.jsp
+[2021-06-23 17:34:38] [tomcat-version-detect:version] [http] [info] https://authz.wpp.api.hp.com/something_not_existing_ [Apache Tomcatrepackage catalina.jar]
+[2021-06-23 17:34:50] [tomcat-version-detect:version] [http] [info] https://cdo-itg-ext.hpcloud.hp.com/something_not_existing_ [Apache Tomcat/8.5.66]
+[2021-06-23 17:34:50] [tomcat-version-detect:version] [http] [info] https://cdo-dev-ext.hpcloud.hp.com/something_not_existing_ [Apache Tomcat/8.5.5]
+[2021-06-23 17:34:50] [tomcat-version-detect:version] [http] [info] https://cdonline.hp.com/something_not_existing_ [Apache Tomcat/8.5.66]
+[2021-06-23 17:34:51] [tomcat-version-detect:version] [http] [info] https://cdonline.hpcloud.hp.com/something_not_existing_ [Apache Tomcat/8.5.66]
+[2021-06-23 17:34:54] [tomcat-version-detect:version] [http] [info] https://chat.avatar.ext.hp.com/something_not_existing_ [Apache Tomcatrepackage catalina.jar]
+[2021-06-23 17:34:55] [tomcat-version-detect:version] [http] [info] https://compass.hpcloud.hp.com/something_not_existing_ [Apache Tomcat/8.5.61]
+[2021-06-23 17:34:56] [tomcat-version-detect:version] [http] [info] https://content.ext.hp.com/something_not_existing_ [Apache Tomcat/9.0.24]
+[2021-06-23 17:34:57] [tomcat-version-detect:version] [http] [info] https://chat.stage.avatar.ext.hp.com/something_not_existing_ [Apache Tomcatrepackage catalina.jar]
+[2021-06-23 17:34:58] [tomcat-version-detect:version] [http] [info] https://css-apj-dev.ext.hp.com/something_not_existing_ [Apache Tomcat/8.5.65]
+[2021-06-23 17:34:58] [tomcat-version-detect:version] [http] [info] https://chat.pie.avatar.ext.hp.com/something_not_existing_ [Apache Tomcatrepackage catalina.jar]
+[2021-06-23 17:35:14] [magento-detect] [http] [info] https://catalog-stage2.hp.com/graphql?query=+{customerDownloadableProducts+{+items+{+date+download_url}}+}
+[2021-06-23 17:39:40] [tech-detect:ms-httpapi] [http] [info] http://b2bvisibility.hpdemo.svcs.hp.com
+[2021-06-23 17:39:40] [tech-detect:apache] [http] [info] http://app.foryou.hp.com
+[2021-06-23 17:39:40] [tech-detect:express] [http] [info] http://aws-mq-preprod.dataservices.hp.com
+[2021-06-23 17:39:41] [tech-detect:apache] [http] [info] http://cprslb1.austin.hp.com
+[2021-06-23 17:39:41] [tech-detect:apache] [http] [info] http://click.smartfriend.hp.com
+[2021-06-23 17:39:41] [tech-detect:php] [http] [info] http://click.smartfriend.hp.com
+[2021-06-23 17:39:42] [tech-detect:apache] [http] [info] http://bep-itg.austin.hp.com
+[2021-06-23 17:39:42] [tech-detect:apache] [http] [info] http://bep.houston.hp.com
+[2021-06-23 17:39:43] [tech-detect:nginx] [http] [info] https://3dmeeting.dev.spa-stg.hpcloud.hp.com
+[2021-06-23 17:39:43] [tech-detect:nginx] [http] [info] https://3dmeeting.spa-stg.hpcloud.hp.com
+[2021-06-23 17:39:43] [tech-detect:nginx] [http] [info] https://3dmeeting.spa.hpcloud.hp.com
+[2021-06-23 17:39:43] [tech-detect:ms-iis] [http] [info] https://42fcore.saas.hp.com
+[2021-06-23 17:39:43] [tech-detect:ms-iis] [http] [info] https://42fctr.saas.hp.com
+[2021-06-23 17:39:43] [tech-detect:apache] [http] [info] http://cots-hou4.houston.hp.com
+[2021-06-23 17:39:43] [tech-detect:google-font-api] [http] [info] https://14fcore.saas.hp.com
+[2021-06-23 17:39:43] [tech-detect:google-font-api] [http] [info] https://32fcore.saas.hp.com
+[2021-06-23 17:39:43] [tech-detect:ms-httpapi] [http] [info] http://b2bvisibility.mo.svcs.hp.com
+[2021-06-23 17:39:43] [tech-detect:google-font-api] [http] [info] https://32fctr.saas.hp.com
+[2021-06-23 17:39:44] [tech-detect:font-awesome] [http] [info] http://crmv9-sales.ext.hp.com
+[2021-06-23 17:39:44] [tech-detect:bootstrap] [http] [info] http://crmv9-sales.ext.hp.com
+[2021-06-23 17:39:44] [tech-detect:nginx] [http] [info] https://accelerator-prodlive-us.hpcloud.hp.com
+[2021-06-23 17:39:44] [tech-detect:ms-iis] [http] [info] https://accessibility-prd.hpcloud.hp.com
+[2021-06-23 17:39:44] [tech-detect:ms-iis] [http] [info] https://accessibilityreporting.usa.hp.com
+[2021-06-23 17:39:44] [tech-detect:nginx] [http] [info] https://accelerator-perflive-us.hpcloud.hp.com
+[2021-06-23 17:39:44] [tech-detect:apache] [http] [info] https://a1.usa.hp.com
+[2021-06-23 17:39:45] [tech-detect:apache] [http] [info] https://a1-api.usa.hp.com
+[2021-06-23 17:39:45] [tech-detect:express] [http] [info] https://acr-dev.ext.hp.com
+[2021-06-23 17:39:45] [tech-detect:nginx] [http] [info] https://acr-dev.ext.hp.com
+[2021-06-23 17:39:45] [tech-detect:express] [http] [info] https://acr.ext.hp.com
+[2021-06-23 17:39:45] [tech-detect:nginx] [http] [info] https://acr.ext.hp.com
+[2021-06-23 17:39:45] [tech-detect:apache] [http] [info] https://activation.rgs.ext.hp.com
+[2021-06-23 17:39:46] [tech-detect:ms-iis] [http] [info] https://404redirect.ext.hp.com
+[2021-06-23 17:39:46] [tech-detect:ms-iis] [http] [info] https://agendabuilder.prp.ext.hp.com
+[2021-06-23 17:39:46] [tech-detect:drupal] [http] [info] https://ah-fe-ext-lb-443.inc.hp.com
+[2021-06-23 17:39:46] [tech-detect:apache] [http] [info] https://ah-fe-ext-lb-443.inc.hp.com
+[2021-06-23 17:39:46] [tech-detect:php] [http] [info] https://ah-fe-ext-lb-443.inc.hp.com
+[2021-06-23 17:39:46] [tech-detect:nginx] [http] [info] https://admin-prodlive-us.hpcloud.hp.com
+[2021-06-23 17:39:47] [tech-detect:apache] [http] [info] https://api-cip-sgw-hpi-a1.itcs.hp.com
+[2021-06-23 17:39:47] [tech-detect:apache] [http] [info] https://api-cip-sgw-hpi-a2.itcs.hp.com
+[2021-06-23 17:39:47] [tech-detect:nginx] [http] [info] https://api-cip-sgw.external.hp.com
+[2021-06-23 17:39:48] [tech-detect:nginx] [http] [info] https://api-cip-stg-sgw.external.hp.com
+[2021-06-23 17:39:48] [tech-detect:bootstrap] [http] [info] https://acr-itg.prp.ext.hp.com
+[2021-06-23 17:39:48] [tech-detect:apache] [http] [info] https://api-cip-sgw-hpi-l1.itcs.hp.com
+[2021-06-23 17:39:48] [tech-detect:apache] [http] [info] https://api-csc-sgw-hpi-a1.itcs.hp.com
+[2021-06-23 17:39:48] [tech-detect:apache] [http] [info] https://api-csc-sgw-hpi-l1.itcs.hp.com
+[2021-06-23 17:39:49] [tech-detect:apache] [http] [info] https://api-csc-sgw-hpi-l2.itcs.hp.com
+[2021-06-23 17:39:49] [tech-detect:nginx] [http] [info] https://api-csc-sgw.external.hp.com
+[2021-06-23 17:39:49] [tech-detect:apache] [http] [info] https://api-csc-sgw-hpi-a2.itcs.hp.com
+[2021-06-23 17:39:49] [tech-detect:nginx] [http] [info] https://api-csc-stg-sgw.external.hp.com
+[2021-06-23 17:39:49] [tech-detect:bootstrap] [http] [info] https://acr.prp.ext.hp.com
+[2021-06-23 17:39:49] [tech-detect:ms-httpapi] [http] [info] http://aspen.asiapac.hp.com
+[2021-06-23 17:39:49] [tech-detect:apache] [http] [info] https://api-sgw-hpi-a1.itcs.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-sgw-hpi-a2.itcs.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-csc-sgw-pro-hpi.glb.itcs.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-sgw-hpi-l1.itcs.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-sgw-pro-hpi.glb.itcs.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-stg-sgw-hpi-alt.itcs.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-sgw.external.hp.com
+[2021-06-23 17:39:50] [tech-detect:nginx] [http] [info] https://api-stg-sgw.external.hp.com
+[2021-06-23 17:39:50] [tech-detect:apache] [http] [info] https://api-cip-sgw-hpi-l2.itcs.hp.com
+[2021-06-23 17:39:51] [tech-detect:apache] [http] [info] https://api-uns-sgw-hpi-a1.itcs.hp.com
+[2021-06-23 17:39:51] [tech-detect:apache] [http] [info] https://api-cip-sgw-pro-hpi.glb.itcs.hp.com
+[2021-06-23 17:39:51] [tech-detect:nginx] [http] [info] https://api-cip-stg-sgw.houston.hp.com
+[2021-06-23 17:39:51] [tech-detect:nginx] [http] [info] https://api-uns-sgw.external.hp.com
+[2021-06-23 17:39:51] [tech-detect:apache] [http] [info] https://api-uns-sgw-pro-hpi.glb.itcs.hp.com
+[2021-06-23 17:39:51] [tech-detect:nginx] [http] [info] https://api-uns-stg-sgw.houston.hp.com
+[2021-06-23 17:39:51] [tech-detect:nginx] [http] [info] https://api-uns-stg-sgw.external.hp.com
+[2021-06-23 17:39:52] [tech-detect:ms-iis] [http] [info] https://apj-hpdc-web-pro-c2-llb-s.itcs.hp.com
+[2021-06-23 17:39:52] [tech-detect:apache] [http] [info] https://apj-srp-stg-v.syd.omc.hp.com
+[2021-06-23 17:39:52] [tech-detect:ms-iis] [http] [info] https://apj-hpdc-web-pro-c2-llb.itcs.hp.com
+[2021-06-23 17:39:52] [tech-detect:apache] [http] [info] https://apjstg.svcs.hp.com
+[2021-06-23 17:39:52] [tech-detect:apache] [http] [info] https://api-uns-sgw-hpi-l2.itcs.hp.com
+[2021-06-23 17:39:52] [tech-detect:ms-iis] [http] [info] https://app-designer.hpcloud.hp.com
+[2021-06-23 17:39:52] [tech-detect:ms-iis] [http] [info] https://app-builder-stg.inc.hp.com
+[2021-06-23 17:39:52] [tech-detect:nginx] [http] [info] https://app-designer.spa.itcs.hp.com
+[2021-06-23 17:39:53] [tech-detect:angular] [http] [info] https://activation.jamanagement.hp.com
+[2021-06-23 17:39:53] [tech-detect:angularjs] [http] [info] https://activation.jamanagement.hp.com
+[2021-06-23 17:39:54] [tech-detect:apache] [http] [info] https://api-uns-sgw-hpi-a2.itcs.hp.com
+[2021-06-23 17:39:54] [tech-detect:apache] [http] [info] https://api-uns-sgw-hpi-l1.itcs.hp.com
+[2021-06-23 17:39:54] [tech-detect:nginx] [http] [info] https://askspoc.dev.spa-stg.hpcloud.hp.com
+[2021-06-23 17:39:55] [tech-detect:nginx] [http] [info] https://askspoc.spa-stg.hpcloud.hp.com
+[2021-06-23 17:39:55] [tech-detect:nginx] [http] [info] https://api-layer7-stg-sgw.houston.hp.com
+[2021-06-23 17:39:55] [tech-detect:ms-iis] [http] [info] https://aspen-test.asiapac.hp.com
+[2021-06-23 17:39:55] [tech-detect:ms-iis] [http] [info] https://apj-hpdc-web-prod-global-llb.glb.itcs.hp.com
+[2021-06-23 17:39:55] [tech-detect:apache] [http] [info] https://assets-pro.hp.com
+[2021-06-23 17:39:55] [tech-detect:apache] [http] [info] https://assets-stage.hp.com
+[2021-06-23 17:39:55] [tech-detect:akamai] [http] [info] https://auth.stg.hp2b.hp.com
+[2021-06-23 17:39:56] [tech-detect:apache] [http] [info] https://3dapp.ext.hp.com
+[2021-06-23 17:39:56] [tech-detect:apache] [http] [info] https://author-stage.hp.com
+[2021-06-23 17:39:57] [tech-detect:ms-httpapi] [http] [info] https://author1.extweb.hp.com
+[2021-06-23 17:39:57] [tech-detect:apache] [http] [info] https://author-dev.hp.com
+[2021-06-23 17:39:58] [tech-detect:ms-iis] [http] [info] https://apj-hpdc-web-pro-c2-llb.inc.hp.com
+[2021-06-23 17:39:58] [tech-detect:nginx] [http] [info] https://aws-facade-4.dataservices.hp.com
+[2021-06-23 17:39:59] [tech-detect:express] [http] [info] https://aws-mq-stg.dataservices.hp.com
+[2021-06-23 17:39:59] [tech-detect:express] [http] [info] https://aws-mq-dev.dataservices.hp.com
+[2021-06-23 17:39:59] [tech-detect:express] [http] [info] https://aws-facade-3.dataservices.hp.com
+[2021-06-23 17:39:59] [tech-detect:express] [http] [info] https://aws-mq.dataservices.hp.com
+[2021-06-23 17:40:00] [tech-detect:apache] [http] [info] https://b2b.svcs.hp.com
+[2021-06-23 17:40:00] [tech-detect:apache] [http] [info] https://b2bitg.austin.hp.com
+[2021-06-23 17:40:00] [tech-detect:ms-iis] [http] [info] https://beta-printerdata.inc.hp.com
+[2021-06-23 17:40:00] [tech-detect:apache] [http] [info] https://bep2.houston.hp.com
+[2021-06-23 17:40:01] [tech-detect:apache] [http] [info] https://beportal.cce.hp.com
+[2021-06-23 17:40:01] [tech-detect:apache] [http] [info] https://bis-pro-dmz.houston.hp.com
+[2021-06-23 17:40:01] [tech-detect:apache] [http] [info] https://bis-uat-dmz.houston.hp.com
+[2021-06-23 17:40:01] [tech-detect:apache] [http] [info] https://bis-pro-dmz4.houston.hp.com
+[2021-06-23 17:40:01] [tech-detect:apache] [http] [info] https://blog-staging.ext.hp.com
+[2021-06-23 17:40:02] [tech-detect:apache] [http] [info] https://bmoext-itg.austin.hp.com
+[2021-06-23 17:40:02] [tech-detect:ms-iis] [http] [info] https://batteryprogram687.ext.hp.com
+[2021-06-23 17:40:02] [tech-detect:apache] [http] [info] https://author-pro.hp.com
+[2021-06-23 17:40:03] [tech-detect:font-awesome] [http] [info] https://bmt.hpcloud.hp.com
+[2021-06-23 17:40:03] [tech-detect:bootstrap] [http] [info] https://bmt.hpcloud.hp.com
+[2021-06-23 17:40:03] [tech-detect:apache] [http] [info] https://bmt.hpcloud.hp.com
+[2021-06-23 17:40:03] [tech-detect:jsdelivr] [http] [info] https://bmt.hpcloud.hp.com
+[2021-06-23 17:40:03] [tech-detect:nginx] [http] [info] https://bpp.spa-stg.hpcloud.hp.com
+[2021-06-23 17:40:03] [tech-detect:nginx] [http] [info] https://bpp.spa.hpcloud.hp.com
+[2021-06-23 17:40:04] [tech-detect:nginx] [http] [info] https://bpp.spa.itcs.hp.com
+[2021-06-23 17:40:04] [tech-detect:apache] [http] [info] https://bsmast032ddm-03.saas.hp.com
+[2021-06-23 17:40:04] [tech-detect:nginx] [http] [info] https://askspoc.spa.hpcloud.hp.com
+[2021-06-23 17:40:05] [tech-detect:apache] [http] [info] https://cap-corp.inc.hp.com
+[2021-06-23 17:40:05] [tech-detect:ms-iis] [http] [info] https://brandcentral.ext.hp.com
+[2021-06-23 17:40:05] [tech-detect:apache] [http] [info] https://cap-itg.corp.hp.com
+[2021-06-23 17:40:05] [tech-detect:apache] [http] [info] https://cap-itg.inc.hp.com
+[2021-06-23 17:40:05] [tech-detect:nginx] [http] [info] https://capabilities-linux.hpcloud.hp.com
+[2021-06-23 17:40:06] [tech-detect:akamai] [http] [info] https://capabilities-linux-dyn.hpcloud.hp.com
+[2021-06-23 17:40:06] [tech-detect:ms-iis] [http] [info] https://capabilities-win.hpcloud.hp.com
+[2021-06-23 17:40:06] [tech-detect:express] [http] [info] https://carepackpop.ext.hp.com
+[2021-06-23 17:40:06] [tech-detect:nginx] [http] [info] https://carepackpop.ext.hp.com
+[2021-06-23 17:40:06] [tech-detect:apache] [http] [info] https://bep-dcc.houston.hp.com
+[2021-06-23 17:40:06] [tech-detect:awselb] [http] [info] https://cc-stg-ct.hpcloud.hp.com
+[2021-06-23 17:40:06] [tech-detect:ms-iis] [http] [info] https://beta-printerdata.itcs.hp.com
+[2021-06-23 17:40:06] [tech-detect:nginx] [http] [info] https://capabilities-linux-dyn-db.hpcloud.hp.com
+[2021-06-23 17:40:07] [tech-detect:apache] [http] [info] https://ccas.prp.ext.hp.com
+[2021-06-23 17:40:07] [tech-detect:ibm-websphere-commerce] [http] [info] https://auth.hp2b.hp.com
+[2021-06-23 17:40:07] [tech-detect:magento] [http] [info] https://catalog-stage.hp.com
+[2021-06-23 17:40:07] [tech-detect:php] [http] [info] https://catalog-stage.hp.com
+[2021-06-23 17:40:07] [tech-detect:awselb] [http] [info] https://cc-pro-ct.hpcloud.hp.com
+[2021-06-23 17:40:07] [tech-detect:nginx] [http] [info] https://123.hp.com
+[2021-06-23 17:40:08] [tech-detect:ms-iis] [http] [info] https://ccls-pro-lb-api.hpcloud.hp.com
+[2021-06-23 17:40:08] [tech-detect:apache] [http] [info] https://ccy01lbcl01-02-1568-f.itcs.hp.com
+[2021-06-23 17:40:08] [tech-detect:jsdelivr] [http] [info] https://bmt-itg-ext.hpcloud.hp.com
+[2021-06-23 17:40:08] [tech-detect:font-awesome] [http] [info] https://bmt-itg-ext.hpcloud.hp.com
+[2021-06-23 17:40:08] [tech-detect:bootstrap] [http] [info] https://bmt-itg-ext.hpcloud.hp.com
+[2021-06-23 17:40:08] [tech-detect:apache] [http] [info] https://bmt-itg-ext.hpcloud.hp.com
+[2021-06-23 17:40:08] [tech-detect:akamai] [http] [info] https://cdn.jp.ext.hp.com
+[2021-06-23 17:40:09] [tech-detect:apache] [http] [info] https://cdn-origin-ftp.extweb.hp.com
+[2021-06-23 17:40:10] [tech-detect:apache] [http] [info] https://ceement.rssx.hp.com
+[2021-06-23 17:40:11] [tech-detect:font-awesome] [http] [info] https://cdn1.partner.hp.com
+[2021-06-23 17:40:11] [tech-detect:bootstrap] [http] [info] https://boe-ext-engitg-llb1.inc.hp.com
+[2021-06-23 17:40:11] [tech-detect:apache] [http] [info] https://cap.corp.hp.com
+[2021-06-23 17:40:13] [tech-detect:apache] [http] [info] https://chat.pie.avatar.ext.hp.com
+[2021-06-23 17:40:13] [tech-detect:apache] [http] [info] https://cce02cllb01-02-1528-f.itcs.hp.com
+[2021-06-23 17:40:13] [tech-detect:ms-iis] [http] [info] https://ccls-itg-lb-api.hpcloud.hp.com
+[2021-06-23 17:40:14] [tech-detect:apache] [http] [info] https://chat.stage.avatar.ext.hp.com
+[2021-06-23 17:40:15] [tech-detect:nginx] [http] [info] https://clever.spa.hpcloud.hp.com
+[2021-06-23 17:40:16] [tech-detect:apache] [http] [info] https://cms.inc.hp.com
+[2021-06-23 17:40:16] [tech-detect:bootstrap] [http] [info] https://cifi.ext.hp.com
+[2021-06-23 17:40:16] [tech-detect:ms-iis] [http] [info] https://cifi.ext.hp.com
+[2021-06-23 17:40:16] [tech-detect:nginx] [http] [info] https://cmc-perflive-us.hpcloud.hp.com
+[2021-06-23 17:40:16] [tech-detect:nginx] [http] [info] https://cmapi-llb.inc.hp.com
+[2021-06-23 17:40:16] [tech-detect:nginx] [http] [info] https://clickandgo.service.spa.hpcloud.hp.com
+[2021-06-23 17:40:16] [tech-detect:apache] [http] [info] https://cms-llb.inc.hp.com
+[2021-06-23 17:40:17] [tech-detect:cloudflare] [http] [info] https://computo.marketinghp-mx.ext.hp.com
+[2021-06-23 17:40:17] [tech-detect:font-awesome] [http] [info] https://cdn2.partner.hp.com
+[2021-06-23 17:40:17] [tech-detect:ms-iis] [http] [info] https://compoptimizeremea.itcs.hp.com
+[2021-06-23 17:40:17] [tech-detect:ms-iis] [http] [info] https://compoptimizerprod.glb.itcs.hp.com
+[2021-06-23 17:40:17] [tech-detect:ms-iis] [http] [info] https://compoptimizerprod.itcs.hp.com
+[2021-06-23 17:40:18] [tech-detect:apache] [http] [info] https://cmservice.rssx.hp.com
+[2021-06-23 17:40:18] [tech-detect:ms-iis] [http] [info] https://configurator-admin-staging.ext.hp.com
+[2021-06-23 17:40:18] [tech-detect:apache] [http] [info] https://chat-ext-prod-az2.inc.hp.com
+[2021-06-23 17:40:18] [tech-detect:apache] [http] [info] https://chat.avatar.ext.hp.com
+[2021-06-23 17:40:19] [tech-detect:ms-iis] [http] [info] https://content-i.houston.hp.com
+[2021-06-23 17:40:19] [tech-detect:apache] [http] [info] https://chat-ext-devpie.inc.hp.com
+[2021-06-23 17:40:19] [tech-detect:ms-iis] [http] [info] https://configurator-admin.ext.hp.com
+[2021-06-23 17:40:19] [tech-detect:ms-iis] [http] [info] https://content-pro-hpe-gslb.glb.itcs.hp.com
+[2021-06-23 17:40:19] [tech-detect:apache] [http] [info] https://connect.hp.com
+[2021-06-23 17:40:19] [tech-detect:microsoft-asp.net] [http] [info] https://channelradglobal.inc.hp.com
+[2021-06-23 17:40:19] [tech-detect:ms-iis] [http] [info] https://channelradglobal.inc.hp.com
+[2021-06-23 17:40:19] [tech-detect:apache] [http] [info] https://content.ext.hp.com
+[2021-06-23 17:40:20] [tech-detect:apache] [http] [info] https://cots.rssx.hp.com
+[2021-06-23 17:40:20] [tech-detect:apache] [http] [info] https://cots.itg-llb.inc.hp.com
+[2021-06-23 17:40:20] [tech-detect:ms-iis] [http] [info] https://cppro.houston.hp.com
+[2021-06-23 17:40:21] [tech-detect:apache] [http] [info] https://cprs.hp.com
+[2021-06-23 17:40:21] [tech-detect:apache] [http] [info] https://cs-prp.corp.hp.com
+[2021-06-23 17:40:21] [tech-detect:ms-iis] [http] [info] https://configurator-admin-uat.ext.hp.com
+[2021-06-23 17:40:21] [tech-detect:apache] [http] [info] https://cprslb2.austin.hp.com
+[2021-06-23 17:40:21] [tech-detect:ms-iis] [http] [info] https://csifprodex1.inc.hp.com
+[2021-06-23 17:40:22] [tech-detect:ms-iis] [http] [info] https://csifprodext.glb.inc.hp.com
+[2021-06-23 17:40:22] [tech-detect:apache] [http] [info] https://css-apj-dev.ext.hp.com
+[2021-06-23 17:40:22] [tech-detect:awselb] [http] [info] https://css-apj-itg.ext.hp.com
+[2021-06-23 17:40:22] [tech-detect:ms-iis] [http] [info] https://csifprodext2.inc.hp.com
+[2021-06-23 17:40:22] [tech-detect:magento] [http] [info] https://catalog-stage2.hp.com
+[2021-06-23 17:40:22] [tech-detect:php] [http] [info] https://catalog-stage2.hp.com
+[2021-06-23 17:40:22] [tech-detect:apache] [http] [info] https://csra.austin.hp.com
+[2021-06-23 17:40:22] [tech-detect:ms-iis] [http] [info] https://content-itg-hpe-llb.itcs.hp.com
+[2021-06-23 17:40:23] [tech-detect:nginx] [http] [info] https://cpc.int.hp.com
+[2021-06-23 17:40:23] [tech-detect:apache] [http] [info] https://css-ext-pro.glbinc.hp.com
+[2021-06-23 17:40:23] [tech-detect:apache] [http] [info] https://css-ext-pro.houston.hp.com
+[2021-06-23 17:40:23] [tech-detect:nginx] [http] [info] https://cpc-ui-hpi-2.hpcloud.hp.com
+[2021-06-23 17:40:24] [tech-detect:apache] [http] [info] https://csat.hpcloud.hp.com
+[2021-06-23 17:40:24] [tech-detect:ms-iis] [http] [info] https://configurator-staging.ext.hp.com
+[2021-06-23 17:40:24] [tech-detect:apache] [http] [info] https://css-ext-pro.inc.hp.com
+[2021-06-23 17:40:24] [tech-detect:awselb] [http] [info] https://css.ext.hp.com
+[2021-06-23 17:40:25] [tech-detect:apache] [http] [info] https://csra-itg.austin.hp.com
+[2021-06-23 17:40:26] [tech-detect:apache] [http] [info] https://cots-gslb.glb1.hp.com
+[2021-06-23 17:40:28] [tech-detect:apache] [http] [info] https://cprslb.glb1.hp.com
+[2021-06-23 17:40:29] [tech-detect:apache] [http] [info] https://css-ext-itg.inc.hp.com
+[2021-06-23 17:40:30] [tech-detect:google-tag-manager] [http] [info] https://cpq-dev.ext.hp.com
+[2021-06-23 17:40:31] [tech-detect:apache] [http] [info] https://custsurvey-dev.austin.hp.com
+[2021-06-23 17:40:31] [tech-detect:apache] [http] [info] https://custsurvey-itg.austin.hp.com
+[2021-06-23 17:40:32] [tech-detect:akamai] [http] [info] https://customer.hp.com
+[2021-06-23 17:53:17] [graphql-detect] [http] [info] https://catalog-stage2.hp.com/graphql
+[2021-06-23 17:53:20] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql
+[2021-06-23 17:53:25] [graphql-detect] [http] [info] https://catalog-stage2.hp.com/graphql/console
+[2021-06-23 17:53:25] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql/console
+[2021-06-23 17:53:41] [front-page-misconfig] [http] [info] https://cdn2.partner.hp.com/_vti_inf.html
+[2021-06-23 17:53:46] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql/schema.yaml
+[2021-06-23 17:53:51] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql/schema.xml
+[2021-06-23 17:53:52] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql/schema.json
+[2021-06-23 17:54:01] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql/v1
+[2021-06-23 17:54:24] [graphql-detect] [http] [info] https://catalog-stage.hp.com/graphql/graphql-playground
+[2021-06-23 17:54:31] [graphql-detect] [http] [info] https://catalog-stage2.hp.com/graphql/schema.json
+[2021-06-23 17:54:40] [graphql-detect] [http] [info] https://catalog-stage2.hp.com/graphql/v1
+[2021-06-23 17:55:07] [graphql-detect] [http] [info] https://catalog-stage2.hp.com/graphql/graphql-playground
+[2021-06-23 17:55:49] [liferay-portal-detect] [http] [info] https://cdn1.partner.hp.com/api/jsonws/invoke
+[2021-06-23 17:55:50] [liferay-portal-detect] [http] [info] https://cdn2.partner.hp.com/api/jsonws/invoke
+[2021-06-23 17:56:33] [globalprotect-panel] [http] [info] https://ams-houston.ext.hp.com/sslmgr
+[2021-06-23 17:56:36] [globalprotect-panel] [http] [info] https://ams-mfa.ext.hp.com/sslmgr
+[2021-06-23 17:56:40] [globalprotect-panel] [http] [info] https://ams-plano.ext.hp.com/sslmgr
+[2021-06-23 17:56:42] [globalprotect-panel] [http] [info] https://apj-india.ext.hp.com/sslmgr
+[2021-06-23 17:56:48] [globalprotect-panel] [http] [info] https://apj-japan.ext.hp.com/sslmgr
+[2021-06-23 17:56:55] [globalprotect-panel] [http] [info] https://apj-singapore.ext.hp.com/sslmgr
+[2021-06-23 17:58:48] [bigip-config-utility] [http] [info] https://cce02cllb01-02-1528-f.itcs.hp.com/mgmt/tm/sys/management-ip
+[2021-06-23 17:58:51] [bigip-config-utility] [http] [info] https://ccy01lbcl01-02-1568-f.itcs.hp.com/mgmt/tm/sys/management-ip
+[2021-06-23 17:58:55] [composer-config:composer.json] [http] [info] https://ah-fe-ext-lb-443.inc.hp.com/vendor/composer/installed.json
+[2021-06-23 18:10:06] [s3-detect] [http] [info] https://aclm.external.hp.com/%c0
+[2021-06-23 18:10:08] [s3-detect] [http] [info] https://aclm-ui.external.hp.com/%c0
+[2021-06-23 18:18:44] [oidc-detect] [http] [info] https://authz.wpp.api.hp.com/.well-known/openid-configuration
+[2021-06-23 18:22:45] [openssh5.3-detect] [network] [low] connect.hp.com:22
+[2021-06-23 18:28:10] [unauthenticated-cache-purge] [http] [low] https://catalog-stage.hp.com
+[2021-06-23 18:30:36] [nameserver-detection:aws-route53] [dns] [info] https://123.hp.com
+[2021-06-23 18:30:36] [nameserver-detection:aws-route53] [dns] [info] http://cnmpse2e-itg.ext.hp.com
+[2021-06-23 18:30:36] [nameserver-detection:aws-route53] [dns] [info] https://3dmeeting.dev.spa-stg.hpcloud.hp.com
+[2021-06-23 18:30:36] [nameserver-detection:aws-route53] [dns] [info] https://3dmeeting.spa-stg.hpcloud.hp.com
+[2021-06-23 18:30:36] [nameserver-detection:aws-route53] [dns] [info] https://3dapp.ext.hp.com
+[2021-06-23 18:30:37] [nameserver-detection:aws-route53] [dns] [info] https://404redirect.ext.hp.com
+[2021-06-23 18:30:37] [nameserver-detection:aws-route53] [dns] [info] https://acc.avatar.ext.hp.com
+[2021-06-23 18:30:37] [nameserver-detection:aws-route53] [dns] [info] https://acc.stage.avatar.ext.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://accelerator-prodlive-us.hpcloud.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://accessibility-prd.hpcloud.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] http://ccls.external.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://accessmgmt.avatar.ext.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://aclm-ui.external.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://accessmgmt.pie.avatar.ext.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://aclm.external.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://3dapi-pro.hpcloud.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://accessibilityreporting.usa.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://admin-prodlive-us.hpcloud.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://acr.ext.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://acr-dev.ext.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://3dmeeting.spa.hpcloud.hp.com
+[2021-06-23 18:30:38] [nameserver-detection:aws-route53] [dns] [info] https://ap-northeast-2.roam.api.hp.com
+[2021-06-23 18:30:39] [nameserver-detection:aws-route53] [dns] [info] https://ams-mfa.ext.hp.com
+[2021-06-23 18:30:39] [nameserver-detection:aws-route53] [dns] [info] https://ap.shareboard.ext.hp.com
+[2021-06-23 18:30:39] [nameserver-detection:aws-route53] [dns] [info] https://api-cip-sgw.external.hp.com
+[2021-06-23 18:30:39] [nameserver-detection:aws-route53] [dns] [info] https://accelerator-perflive-us.hpcloud.hp.com
+[2021-06-23 18:30:40] [nameserver-detection:aws-route53] [dns] [info] https://api-cip-stg-sgw.external.hp.com
+[2021-06-23 18:30:40] [nameserver-detection:aws-route53] [dns] [info] https://accessmgmt.stage.avatar.ext.hp.com
+[2021-06-23 18:30:40] [nameserver-detection:aws-route53] [dns] [info] https://api-csc-stg-sgw.external.hp.com
+[2021-06-23 18:30:40] [nameserver-detection:aws-route53] [dns] [info] https://api-csc-sgw.external.hp.com
+[2021-06-23 18:30:40] [nameserver-detection:aws-route53] [dns] [info] https://activation.jamanagement.hp.com
+[2021-06-23 18:30:40] [nameserver-detection:aws-route53] [dns] [info] https://api-stg-sgw.external.hp.com
+[2021-06-23 18:30:41] [nameserver-detection:aws-route53] [dns] [info] https://api2-methone.hpcloud.hp.com
+[2021-06-23 18:30:41] [nameserver-detection:aws-route53] [dns] [info] https://api-uns-sgw.external.hp.com
+[2021-06-23 18:30:41] [nameserver-detection:aws-route53] [dns] [info] https://api2-itg-methone.hpcloud.hp.com
+[2021-06-23 18:30:41] [nameserver-detection:aws-route53] [dns] [info] https://api-uns-stg-sgw.houston.hp.com
+[2021-06-23 18:30:41] [nameserver-detection:aws-route53] [dns] [info] https://apj-singapore.ext.hp.com
+[2021-06-23 18:30:41] [nameserver-detection:aws-route53] [dns] [info] https://apj-india.ext.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://api-cip-stg-sgw.houston.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://arc-pof-itg.ext.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://arc-pof-pro.msit.hpcloud.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://arc.ext.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://ars.api.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://askspoc.spa-stg.hpcloud.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://askspoc.spa.hpcloud.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://arc-pof-itg.corp.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://askspoc.dev.spa-stg.hpcloud.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://assets-pro.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://assets.github-partner.azc.ext.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://arc-pof.corp.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://assets.github-reh.azc.ext.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://api-layer7-stg-sgw.houston.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://assets.github.azc.ext.hp.com
+[2021-06-23 18:30:42] [nameserver-detection:aws-route53] [dns] [info] https://assets-stage.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://authz.wpp.api.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://avatars.github-partner.azc.ext.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://author-dev.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://avatars.github-reh.azc.ext.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://avatars.github.azc.ext.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://auth.hp2b.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://api-uns-stg-sgw.external.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-7.dataservices.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://aws-mq-stg.dataservices.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-1.dataservices.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-4.dataservices.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-2.dataservices.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://aws-mq-dev.dataservices.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://app-designer.hpcloud.hp.com
+[2021-06-23 18:30:43] [nameserver-detection:aws-route53] [dns] [info] https://arc-backend-pro.msit.hpcloud.hp.com
+[2021-06-23 18:30:44] [nameserver-detection:aws-route53] [dns] [info] https://arc-itg.ext.hp.com
+[2021-06-23 18:30:44] [nameserver-detection:aws-route53] [dns] [info] https://bird-prod-dus-mssi.hpcloud.hp.com
+[2021-06-23 18:30:44] [nameserver-detection:aws-route53] [dns] [info] https://beta.roam.api.hp.com
+[2021-06-23 18:30:44] [nameserver-detection:aws-route53] [dns] [info] https://arc-weblogic-itg.msit.hpcloud.hp.com
+[2021-06-23 18:30:44] [nameserver-detection:aws-route53] [dns] [info] https://bmt-itg-ext.hpcloud.hp.com
+[2021-06-23 18:30:44] [nameserver-detection:aws-route53] [dns] [info] https://bmt.hpcloud.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://bpp.spa.hpcloud.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-3.dataservices.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://apj-japan.ext.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://bwmassupload-dev.msit.hpcloud.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-9.dataservices.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://aws-facade-dev.dataservices.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://bwmassupload.msit.hpcloud.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://c360.hpcloud.hp.com
+[2021-06-23 18:30:45] [nameserver-detection:aws-route53] [dns] [info] https://aws-mq.dataservices.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://arc-pof-itg.msit.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://blog.ext.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://capabilities-linux-dyn-db.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://capabilities-linux.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://cache-lb-sbs.austin.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://blog-staging.ext.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://cc-stg-ct.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://capabilities-win.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://cc-pro-ct.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://bpp.spa-stg.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://cc.ext.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://ccls-itg-lb-api.hpcloud.hp.com
+[2021-06-23 18:30:46] [nameserver-detection:aws-route53] [dns] [info] https://ccls-api.hpcloud.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://ccls-pro-lb-api.hpcloud.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod1.stage.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://brandcentral.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod1.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod4.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod3.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod3.stage.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod6.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub2.pod1.pie.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub2.pod1.stage.avatar.ext.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://bwmassupload-itg.msit.hpcloud.hp.com
+[2021-06-23 18:30:47] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub2.pod4.avatar.ext.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://capabilities-linux-dyn.hpcloud.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub2.pod7.avatar.ext.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://cdonline.hpcloud.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://celonis-prod.hpcloud.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://celonis-itg.hpcloud.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://carepackpop.ext.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://catalog-stage2.hp.com
+[2021-06-23 18:30:48] [nameserver-detection:aws-route53] [dns] [info] https://chat.avatar.ext.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod1.pie.avatar.ext.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://chat.stage.avatar.ext.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://checkerspot-itg.houston.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub.pod5.avatar.ext.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://cim.pod1.stage.avatar.ext.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://cim.pod1.avatar.ext.hp.com
+[2021-06-23 18:30:49] [nameserver-detection:aws-route53] [dns] [info] https://clever.spa.hpcloud.hp.com
+[2021-06-23 18:30:50] [nameserver-detection:aws-route53] [dns] [info] https://cdmpubsub2.pod3.stage.avatar.ext.hp.com
+[2021-06-23 18:30:50] [nameserver-detection:aws-route53] [dns] [info] https://cdo-dev-ext.hpcloud.hp.com
+[2021-06-23 18:30:50] [nameserver-detection:aws-route53] [dns] [info] https://cdo-itg-ext.hpcloud.hp.com
+[2021-06-23 18:30:50] [nameserver-detection:aws-route53] [dns] [info] https://cmc-perflive-us.hpcloud.hp.com
+[2021-06-23 18:30:50] [nameserver-detection:aws-route53] [dns] [info] https://cdonline.hp.com
+[2021-06-23 18:30:50] [nameserver-detection:aws-route53] [dns] [info] https://codeload.github-reh.azc.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://compass.hpcloud.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://ccls-itg.external.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://chat.pie.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://chattest.external.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://checkerspot.atlanta.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://cifi.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://configurator-staging.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://connectivity.pod1.pie.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://configurator-admin-staging.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://connectivity.pod1.stage.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://connectivity.pod5.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://configurator-admin.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:cloudflare] [dns] [info] https://computo.marketinghp-mx.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://configurator-admin-uat.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://core.api.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://connectivity.pod4.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://cpc-ui-hpi-2.hpcloud.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://connectivity.pod7.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://cim.pod1.pie.avatar.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://cpc.ext.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://cpc.int.hp.com
+[2021-06-23 18:30:51] [nameserver-detection:aws-route53] [dns] [info] https://cpq-itg.ext.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://csat-stgprotagonist.houston.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://clickandgo.service.spa.hpcloud.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://css-apj-api-itg.ext.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://codeload.github-partner.azc.ext.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://css-apj-itg.ext.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://css.api.hp.com
+[2021-06-23 18:30:52] [nameserver-detection:aws-route53] [dns] [info] https://codeload.github.azc.ext.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://checkerspot-itg.atlanta.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://css-wechat-api-prod.ext.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://csswechat-api.ext.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://customer-itg-aws.ext.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://css-wechat-api-itg.ext.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://cpc-ui-hpi-1.hpcloud.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://cpq-dev.ext.hp.com
+[2021-06-23 18:30:53] [nameserver-detection:aws-route53] [dns] [info] https://csat.hpcloud.hp.com
+[2021-06-23 18:30:54] [nameserver-detection:aws-route53] [dns] [info] https://csswechat-api-itg.ext.hp.com
+[2021-06-23 18:30:54] [nameserver-detection:aws-route53] [dns] [info] https://css-apj-dev.ext.hp.com
+[2021-06-23 18:30:54] [nameserver-detection:aws-route53] [dns] [info] https://cn.shareboard.ext.hp.com
+[2021-06-23 18:30:55] [nameserver-detection:aws-route53] [dns] [info] https://css.ext.hp.com
+[2021-06-23 18:30:56] [nameserver-detection:aws-route53] [dns] [info] https://cpq-stg.ext.hp.com
+[2021-06-24 15:15:39] [apache-version-detect] [http] [info] http://dps.rssx.hp.com [Apache]
+[2021-06-24 15:15:39] [apache-version-detect] [http] [info] http://dawnllblist.itcs.hp.com [Apache]
+[2021-06-24 15:15:39] [apache-version-detect] [http] [info] http://dpss.houston.hp.com [Apache]
+[2021-06-24 15:15:39] [generic-tokens] [http] [info] http://dpss.houston.hp.com [passwordadapter=SourcingSupplierUser"]
+[2021-06-24 15:15:40] [public-documents:public_doc] [http] [info] http://cto.uat.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-24 15:15:40] [apache-version-detect] [http] [info] http://elements-validation-itg-config.inc.hp.com [Apache]
+[2021-06-24 15:15:41] [apache-version-detect] [http] [info] http://exchange-prd-01.houston.hp.com [Apache]
+[2021-06-24 15:15:41] [apache-version-detect] [http] [info] http://fclaims-external.corp.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://g1t4196.austin.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://fec-pro3-llb03-a3-saa.itcs.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://g1t4215.austin.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://g1t4216.austin.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://ftp.itrc.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://g1t4217.austin.hp.com [Apache]
+[2021-06-24 15:15:42] [apache-version-detect] [http] [info] http://g1t4218.austin.hp.com [Apache]
+[2021-06-24 15:15:43] [apache-version-detect] [http] [info] http://g1t4213.austin.hp.com [Apache]
+[2021-06-24 15:15:43] [apache-version-detect] [http] [info] http://g1t4214.austin.hp.com [Apache]
+[2021-06-24 15:15:43] [apache-version-detect] [http] [info] http://g1t7095g.austin.hp.com [Apache]
+[2021-06-24 15:15:43] [apache-version-detect] [http] [info] http://g1u1639c.austin.hp.com [Apache/2.0.59  HP-UX_Apache-based_Web_Server (Unix) DAV/2 mod_ssl/2.0.59 OpenSSL/0.9.8d]
+[2021-06-24 15:15:43] [apache-version-detect] [http] [info] http://g1t5856g.austin.hp.com [Apache]
+[2021-06-24 15:15:57] [apache-version-detect] [http] [info] http://g2t3078.austin.hp.com [Apache]
+[2021-06-24 15:15:58] [apache-version-detect] [http] [info] http://g2t3094.austin.hp.com [Apache]
+[2021-06-24 15:15:58] [apache-version-detect] [http] [info] http://g2t3096.austin.hp.com [Apache]
+[2021-06-24 15:15:58] [apache-version-detect] [http] [info] http://g2t3097.austin.hp.com [Apache]
+[2021-06-24 15:15:58] [apache-version-detect] [http] [info] http://g2t3099.austin.hp.com [Apache]
+[2021-06-24 15:15:58] [apache-version-detect] [http] [info] http://g2t3095.austin.hp.com [Apache]
+[2021-06-24 15:15:59] [apache-version-detect] [http] [info] http://g2t3098.austin.hp.com [Apache]
+[2021-06-24 15:15:59] [apache-version-detect] [http] [info] https://css-apj-dev.ext.hp.com [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips]
+[2021-06-24 15:16:00] [apache-version-detect] [http] [info] https://css-ext-pro.houston.hp.com [Apache]
+[2021-06-24 15:16:00] [apache-version-detect] [http] [info] https://css-ext-itg.inc.hp.com [Apache]
+[2021-06-24 15:16:00] [public-documents:public_doc] [http] [info] https://cto.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-24 15:16:00] [apache-version-detect] [http] [info] https://css-ext-pro.inc.hp.com [Apache]
+[2021-06-24 15:16:01] [apache-version-detect] [http] [info] http://g2t1370g.austin.hp.com [Apache]
+[2021-06-24 15:16:01] [public-documents:public_doc] [http] [info] https://cto.hotfix.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-24 15:16:01] [public-documents:public_doc] [http] [info] https://cto.qa.store.hp.com [com.ibm.websphere.ihs.doc]
+[2021-06-24 15:16:01] [apache-version-detect] [http] [info] https://css-ext-pro.glbinc.hp.com [Apache]
+[2021-06-24 15:16:03] [nginx-version] [http] [info] https://desktop.iam.hp.com [nginx/1.18.0]
+[2021-06-24 15:16:04] [nginx-version] [http] [info] https://developers.hp.com [nginx]
+[2021-06-24 15:16:06] [default-nginx-page] [http] [info] https://deviceregistration.avatar.ext.hp.com
+[2021-06-24 15:16:06] [nginx-version] [http] [info] https://deviceregistration.avatar.ext.hp.com [nginx]
+[2021-06-24 15:16:06] [default-nginx-page] [http] [info] https://deviceregistration.stage.avatar.ext.hp.com
+[2021-06-24 15:16:06] [nginx-version] [http] [info] https://deviceregistration.stage.avatar.ext.hp.com [nginx]
+[2021-06-24 15:16:06] [apache-version-detect] [http] [info] https://direct-dccb2bprod2.austin.hp.com [Apache]
+[2021-06-24 15:16:07] [apache-version-detect] [http] [info] https://direct-dccb2bprod.austin.hp.com [Apache]
+[2021-06-24 15:16:08] [nginx-version] [http] [info] https://discover-lasvegas.attend.hp.com [nginx]
+[2021-06-24 15:16:08] [aws-bucket-service] [http] [info] https://dopplerapp.msit.hpcloud.hp.com
+[2021-06-24 15:16:08] [aws-bucket-service] [http] [info] https://dopplerapp-itg.msit.hpcloud.hp.com
+[2021-06-24 15:16:09] [apache-version-detect] [http] [info] https://dpss-itg.inc.hp.com [Apache]
+[2021-06-24 15:16:09] [generic-tokens] [http] [info] https://dpss-itg.inc.hp.com [passwordadapter=SourcingSupplierUser"][2021-06-24 15:16:09] [apache-version-detect] [http] [info] https://dpss.inc.hp.com [Apache]
+[2021-06-24 15:16:09] [generic-tokens] [http] [info] https://dpss.inc.hp.com [passwordadapter=SourcingSupplierUser"]
+[2021-06-24 15:16:09] [apache-version-detect] [http] [info] https://dps.itg-llb.inc.hp.com [Apache]
+[2021-06-24 15:16:09] [apache-version-detect] [http] [info] https://dpss.glb1.hp.com [Apache]
+[2021-06-24 15:16:09] [generic-tokens] [http] [info] https://dpss.glb1.hp.com [passwordadapter=SourcingSupplierUser"]
+[2021-06-24 15:16:10] [aws-bucket-service] [http] [info] https://e-commerce-online-pub.ext.hp.com
+[2021-06-24 15:16:12] [apache-version-detect] [http] [info] https://ecs-portal-01.atl.ams.cs.trce.hp.com [Apache]
+[2021-06-24 15:16:12] [apache-version-detect] [http] [info] https://elements-validation-itg-jump.inc.hp.com [Apache]
+[2021-06-24 15:16:14] [apache-version-detect] [http] [info] https://eponit22.houston.hp.com [Apache/2]
+[2021-06-24 15:16:14] [apache-version-detect] [http] [info] https://eponpr11.austin.hp.com [Apache/2]
+[2021-06-24 15:16:15] [apache-version-detect] [http] [info] https://eprime20.glb1.hp.com [Apache/2]
+[2021-06-24 15:16:15] [apache-version-detect] [http] [info] https://eprime11.austin.hp.com [Apache/2]
+[2021-06-24 15:16:15] [basic-auth-detection] [http] [info] https://es.hpcloud.hp.com
+[2021-06-24 15:16:15] [nginx-version] [http] [info] https://es.spa.hpcloud.hp.com [nginx]
+[2021-06-24 15:16:15] [generic-tokens] [http] [info] https://es.spa.hpcloud.hp.com [Key:"58263244ab"]
+[2021-06-24 15:16:16] [apache-version-detect] [http] [info] https://eprime.austin.hp.com [Apache/2]
+[2021-06-24 15:16:16] [apache-version-detect] [http] [info] https://esam-prod.glb.itcs.hp.com [Apache]
+[2021-06-24 15:16:16] [apache-version-detect] [http] [info] https://esam-prod-2.itcs.hp.com [Apache]
+[2021-06-24 15:16:16] [apache-version-detect] [http] [info] https://eprime21.houston.hp.com [Apache/2]
+[2021-06-24 15:16:16] [apache-version-detect] [http] [info] https://escpdb-itg.prp.ext.hp.com [Apache]
+[2021-06-24 15:16:17] [apache-version-detect] [http] [info] https://esam-itg.glb.itcs.hp.com [Apache]
+[2021-06-24 15:16:17] [basic-auth-detection] [http] [info] https://essc-web-itg.hpcloud.hp.com
+[2021-06-24 15:16:17] [default-windows-server-page] [http] [info] https://essc-ws-dev.hpcloud.hp.com
+[2021-06-24 15:16:17] [apache-version-detect] [http] [info] https://esam-prod-1.itcs.hp.com [Apache]
+[2021-06-24 15:16:18] [nginx-version] [http] [info] https://estimator.hp.com [nginx/1.17.1]
+[2021-06-24 15:16:18] [apache-version-detect] [http] [info] https://esam-itg-2.itcs.hp.com [Apache]
+[2021-06-24 15:16:19] [apache-version-detect] [http] [info] https://elements-validation-itg-dps.inc.hp.com [Apache]
+[2021-06-24 15:16:19] [apache-version-detect] [http] [info] https://extdevgreenbase.inc.hp.com [Apache]
+[2021-06-24 15:16:19] [apache-version-detect] [http] [info] https://fclaim-ext.corp.hp.com [Apache]
+[2021-06-24 15:16:20] [apache-version-detect] [http] [info] https://fec-pro3-gslb03-a3-saa.glb.itcs.hp.com [Apache]
+[2021-06-24 15:16:20] [apache-version-detect] [http] [info] https://fecitg-ext-llb.inc.hp.com [Apache]
+[2021-06-24 15:16:20] [nginx-version] [http] [info] https://faa.ext.hp.com [nginx/1.18.0 + Phusion Passenger 6.0.7]
+[2021-06-24 15:16:20] [default-windows-server-page] [http] [info] https://ftp-ngdc.saas.hp.com
+[2021-06-24 15:16:21] [apache-version-detect] [http] [info] https://ftp11.itrc.hp.com [Apache]
+[2021-06-24 15:16:22] [apache-version-detect] [http] [info] https://esam.hp.com [Apache]
+[2021-06-24 15:16:23] [default-windows-server-page] [http] [info] https://essc-ws-dev.houston.hp.com
+[2021-06-24 15:16:26] [apache-version-detect] [http] [info] https://g1t7089g.austin.hp.com [Apache]
+[2021-06-24 15:16:26] [apache-version-detect] [http] [info] https://g1t7090g.austin.hp.com [Apache]
+[2021-06-24 15:16:26] [apache-version-detect] [http] [info] https://g1t7093g.austin.hp.com [Apache]
+[2021-06-24 15:16:26] [apache-version-detect] [http] [info] https://g1t7094g.austin.hp.com [Apache]
+[2021-06-24 15:16:27] [apache-version-detect] [http] [info] https://g1u0455.austin.hp.com [Apache]
+[2021-06-24 15:16:27] [apache-version-detect] [http] [info] https://g1u1296.austin.hp.com [Apache]
+[2021-06-24 15:16:32] [apache-version-detect] [http] [info] https://g1t7091g.austin.hp.com [Apache]
+[2021-06-24 15:16:32] [apache-version-detect] [http] [info] https://g1t7092g.austin.hp.com [Apache]
+[2021-06-24 15:16:33] [default-tomcat-page] [http] [info] https://g2t1380g.austin.hp.com
+[2021-06-24 15:16:39] [default-redhat-test-page] [http] [info] https://g2t1376g.austin.hp.com
+[2021-06-24 15:16:39] [apache-version-detect] [http] [info] https://g2t1379g.austin.hp.com [Apache/2.2.15 (Red Hat)]
+[2021-06-24 15:16:44] [tomcat-version-detect:version] [http] [info] http://elfwebserviceprd.inc.hp.com/something_not_existing_ [Apache Tomcat/6.0.24]
+[2021-06-24 15:17:51] [tomcat-version-detect:version] [http] [info] https://css-apj-dev.ext.hp.com/something_not_existing_ [Apache Tomcat/8.5.65]
+[2021-06-24 15:18:02] [tomcat-version-detect:version] [http] [info] https://edservices-itg.inc.hp.com/something_not_existing_ [Apache Tomcat/7.0.81]
+[2021-06-24 15:18:21] [tomcat-version-detect:version] [http] [info] https://g2t1380g.austin.hp.com/something_not_existing_ [Apache Tomcat/6.0.32]
+[2021-06-24 15:21:08] [pulse-secure-panel] [http] [info] https://emea.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-24 15:21:08] [pulse-secure-panel] [http] [info] https://emeaglb.remoteaccess.hp.com/dana-na/auth/url_default/welcome.cgi
+[2021-06-24 15:21:49] [nginx-status] [http] [low] http://eprint-ics.glbinc.hp.com/nginx_status
+[2021-06-24 15:28:40] [s3-detect] [http] [info] https://daas.hp.com/%c0
+[2021-06-24 15:28:48] [s3-detect] [http] [info] https://dopplerapp-itg.msit.hpcloud.hp.com/%c0
+[2021-06-24 15:28:48] [s3-detect] [http] [info] https://dopplerapp.msit.hpcloud.hp.com/%c0
+[2021-06-24 15:28:51] [s3-detect] [http] [info] https://e-commerce-online-pub.ext.hp.com/%c0
+[2021-06-24 15:29:30] [front-page-misconfig] [http] [info] https://g1t7096g.austin.hp.com/_vti_inf.html
+[2021-06-24 15:29:36] [front-page-misconfig] [http] [info] https://g1t7097g.austin.hp.com/_vti_inf.html
+[2021-06-24 15:40:14] [CVE-2020-3187] [http] [high] https://dashboard.security.svcs.hp.com/+CSCOE+/session_password.html
+[2021-06-24 15:43:37] [weblogic-detect] [http] [info] http://eshop-itg.austin.hp.com/console/login/LoginForm.jsp
+[2021-06-24 15:44:41] [weblogic-detect] [http] [info] https://esam-itg2.austin.hp.com/console/login/LoginForm.jsp
+[2021-06-24 15:46:47] [globalprotect-panel] [http] [info] https://emea-netherlands.ext.hp.com/sslmgr
+[2021-06-24 15:46:56] [globalprotect-panel] [http] [info] https://emea-israel.ext.hp.com/sslmgr
+[2021-06-24 15:48:04] [open-redirect] [http] [low] http://g1t4222.austin.hp.com/http://g1t4222.austin.hp.comexample.com
+[2021-06-24 15:48:41] [open-redirect] [http] [low] http://g1t4223.austin.hp.com/http://g1t4223.austin.hp.comexample.com
+[2021-06-24 15:48:42] [open-redirect] [http] [low] http://g1t4223.austin.hp.com//http://g1t4223.austin.hp.comexample.com/
+[2021-06-24 15:49:01] [open-redirect] [http] [low] http://g1t4226.austin.hp.com/http://g1t4226.austin.hp.comexample.com
+[2021-06-24 15:49:02] [open-redirect] [http] [low] http://g1t4226.austin.hp.com//http://g1t4226.austin.hp.comexample.com/
+[2021-06-24 15:49:02] [open-redirect] [http] [low] http://g1t4225.austin.hp.com/http://g1t4225.austin.hp.comexample.com
+[2021-06-24 15:49:03] [open-redirect] [http] [low] http://g1t4225.austin.hp.com//http://g1t4225.austin.hp.comexample.com/
+[2021-06-24 16:01:12] [open-redirect] [http] [low] http://g2t3106.austin.hp.com/http://g2t3106.austin.hp.comexample.com
+[2021-06-24 16:01:19] [open-redirect] [http] [low] http://g2t3106.austin.hp.com//http://g2t3106.austin.hp.comexample.com/
+[2021-06-24 16:01:20] [open-redirect] [http] [low] http://g2t3104.austin.hp.com/http://g2t3104.austin.hp.comexample.com
+[2021-06-24 16:01:23] [open-redirect] [http] [low] http://g2t3104.austin.hp.com//http://g2t3104.austin.hp.comexample.com/
+[2021-06-24 16:01:40] [open-redirect] [http] [low] http://g2t3103.austin.hp.com/http://g2t3103.austin.hp.comexample.com
+[2021-06-24 16:01:49] [open-redirect] [http] [low] http://g2t3103.austin.hp.com//http://g2t3103.austin.hp.comexample.com/
+[2021-06-24 16:06:43] [basic-cors-misconfig] [http] [info] https://eu-central-1.roam.api.hp.com
+[2021-06-24 16:19:23] [open-redirect] [http] [low] https://g2t3100.austin.hp.com/https://g2t3100.austin.hp.comexample.com
+[2021-06-24 16:19:24] [open-redirect] [http] [low] https://g2t3100.austin.hp.com//https://g2t3100.austin.hp.comexample.com/
+[2021-06-24 16:19:35] [open-redirect] [http] [low] https://g2t3101.austin.hp.com/https://g2t3101.austin.hp.comexample.com
+[2021-06-24 16:19:37] [open-redirect] [http] [low] https://g2t3101.austin.hp.com//https://g2t3101.austin.hp.comexample.com/
+[2021-06-24 16:19:49] [open-redirect] [http] [low] https://g2t3102.austin.hp.com/https://g2t3102.austin.hp.comexample.com
+[2021-06-24 16:19:51] [open-redirect] [http] [low] https://g2t3102.austin.hp.com//https://g2t3102.austin.hp.comexample.com/
+[2021-06-24 16:19:52] [open-redirect] [http] [low] https://g2t3109.austin.hp.com//https://g2t3109.austin.hp.comexample.com/
+[2021-06-24 16:28:20] [nameserver-detection:aws-route53] [dns] [info] http://dopplerapp-dev.msit.hpcloud.hp.com
+[2021-06-24 16:28:21] [nameserver-detection:aws-route53] [dns] [info] http://eipds2s.hpcloud.hp.com
+[2021-06-24 16:28:41] [nameserver-detection:aws-route53] [dns] [info] https://cpq-itg.ext.hp.com
+[2021-06-24 16:28:41] [nameserver-detection:aws-route53] [dns] [info] https://cpq-stg.ext.hp.com
+[2021-06-24 16:28:42] [nameserver-detection:aws-route53] [dns] [info] https://csat-stgprotagonist.houston.hp.com
+[2021-06-24 16:28:42] [nameserver-detection:aws-route53] [dns] [info] https://css-apj-api-itg.ext.hp.com
+[2021-06-24 16:28:42] [nameserver-detection:aws-route53] [dns] [info] https://css-apj-dev.ext.hp.com
+[2021-06-24 16:28:43] [nameserver-detection:aws-route53] [dns] [info] https://css-apj-itg.ext.hp.com
+[2021-06-24 16:28:43] [nameserver-detection:aws-route53] [dns] [info] https://css.api.hp.com
+[2021-06-24 16:28:43] [nameserver-detection:aws-route53] [dns] [info] https://css-wechat-api-itg.ext.hp.com
+[2021-06-24 16:28:43] [nameserver-detection:aws-route53] [dns] [info] https://csswechat-api.ext.hp.com
+[2021-06-24 16:28:43] [nameserver-detection:aws-route53] [dns] [info] https://csswechat-api-itg.ext.hp.com
+[2021-06-24 16:28:44] [nameserver-detection:aws-route53] [dns] [info] https://daas.api.hp.com
+[2021-06-24 16:28:44] [nameserver-detection:aws-route53] [dns] [info] https://dailyinc.hp.com
+[2021-06-24 16:28:44] [nameserver-detection:aws-route53] [dns] [info] https://daas.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod4.avatar.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod5.avatar.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod3.avatar.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod1.stage.avatar.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod3.stage.avatar.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev-store-il.hpcloud.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev-rfg-ext.hpcloud.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.api.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.consent.api.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.iedp.api.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dcc.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://desktop.iam.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.mps.api.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.cdca-uat-api.ext.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.brandcentral.int.hp.com
+[2021-06-24 16:28:45] [nameserver-detection:aws-route53] [dns] [info] https://dev.softfax.api.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://css.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://developer.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://developers.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceauth.pie.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceauth.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceauth.dev.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceclaim.pie.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceclaim.stage.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceconfig.pod1.stage.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://devicecatalog.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:46] [nameserver-detection:aws-route53] [dns] [info] https://deviceconfig.pod7.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod1.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://deviceconfig.pod4.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod6.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://dcsporter.hpcloud.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://databridge.pod7.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://devicemgmt.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://dev.jamanagement.eu.api.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://dev.mpsace.api.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://css-wechat-api-prod.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://dev2.jamanagement.api.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://devicemgmt.pod3.avatar.ext.hp.com
+[2021-06-24 16:28:47] [nameserver-detection:aws-route53] [dns] [info] https://deviceregistration.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicepersonality.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicepersonality.pod1.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicemgmt.pod5.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://deviceregistration.stage.avatar.ext.hp.com[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicepersonality.pod1.stage.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicestatus.pod3.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicestatus.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://deviceclaim.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicestatus.pod6.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://directory.stg.cd.id.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicestatus.pod7.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://devicestatus.pod1.stage.avatar.ext.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://directory.dev.cd.id.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://directory.us-west-2.stg.cd.id.hp.com
+[2021-06-24 16:28:48] [nameserver-detection:aws-route53] [dns] [info] https://daily.cc.ext.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://deviceconfig.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://docker.github-partner.azc.ext.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://docker.github.azc.ext.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://devicelookup.avatar.ext.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://domainredirect-ext.hpcloud.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://domainmisc-ext.hpcloud.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://devicemgmt.pod1.stage.avatar.ext.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://dev.printos.api.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://dev.itservices.api.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://dopplerapp.msit.hpcloud.hp.com
+[2021-06-24 16:28:49] [nameserver-detection:aws-route53] [dns] [info] https://devicemgmt.pod3.stage.avatar.ext.hp.com
+[2021-06-24 16:28:50] [nameserver-detection:aws-route53] [dns] [info] https://directory.us-east-1.qa.cd.id.hp.com
+[2021-06-24 16:28:50] [nameserver-detection:aws-route53] [dns] [info] https://directory.us-west-2.dev.cd.id.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://devicelookup.pie.avatar.ext.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://devicelookup.stage.avatar.ext.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://domain-http-ext.hpcloud.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod1.stage.avatar.ext.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod6.avatar.ext.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://dvs-stage.ext.hp.com
+[2021-06-24 16:28:51] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod7.avatar.ext.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://dvs.ext.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://e-commerce-online-back.ext.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://e-commerce-online-pub.ext.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://devicestatus.pod3.stage.avatar.ext.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://earlyeval-pro.hpcloud.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://eas-itg-api.hpcloud.hp.com
+[2021-06-24 16:28:52] [nameserver-detection:aws-route53] [dns] [info] https://directory.id.hp.com
+[2021-06-24 16:28:53] [nameserver-detection:aws-route53] [dns] [info] https://docker.github-reh.azc.ext.hp.com
+[2021-06-24 16:28:53] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod3.avatar.ext.hp.com
+[2021-06-24 16:28:53] [nameserver-detection:aws-route53] [dns] [info] https://domainredirects.ext.hp.com
+[2021-06-24 16:28:53] [nameserver-detection:aws-route53] [dns] [info] https://eipd.rssx.hp.com
+[2021-06-24 16:28:53] [nameserver-detection:aws-route53] [dns] [info] https://dopplerapp-itg.msit.hpcloud.hp.com
+[2021-06-24 16:28:53] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod5.avatar.ext.hp.com
+[2021-06-24 16:28:54] [nameserver-detection:aws-route53] [dns] [info] https://emailid.pie.avatar.ext.hp.com
+[2021-06-24 16:28:54] [nameserver-detection:aws-route53] [dns] [info] https://emailconfig.stage.avatar.ext.hp.com
+[2021-06-24 16:28:54] [nameserver-detection:aws-route53] [dns] [info] https://emea-finland.ext.hp.com
+[2021-06-24 16:28:54] [nameserver-detection:aws-route53] [dns] [info] https://emea-israel.ext.hp.com
+[2021-06-24 16:28:54] [nameserver-detection:aws-route53] [dns] [info] https://emea-netherlands.ext.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://ecp.pie.portalshell.int.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod1.avatar.ext.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://entitydiscovery.avatar.ext.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://entitydiscovery.pie.avatar.ext.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://eopsf.hpcloud.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod1.pie.avatar.ext.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://entitydiscovery.dev.avatar.ext.hp.com
+[2021-06-24 16:28:55] [nameserver-detection:aws-route53] [dns] [info] https://dsservice.pod3.stage.avatar.ext.hp.com
+[2021-06-24 16:28:56] [nameserver-detection:aws-route53] [dns] [info] https://es.hpcloud.hp.com
+[2021-06-24 16:28:56] [nameserver-detection:aws-route53] [dns] [info] https://emailconfig.avatar.ext.hp.com
+[2021-06-24 16:28:56] [nameserver-detection:aws-route53] [dns] [info] https://emailmanager.hpcloud.hp.com
+[2021-06-24 16:28:57] [nameserver-detection:aws-route53] [dns] [info] https://engineeredby.hp.com
+[2021-06-24 16:28:57] [nameserver-detection:aws-route53] [dns] [info] https://eopsf-itg.hpcloud.hp.com
+[2021-06-24 16:28:57] [nameserver-detection:aws-route53] [dns] [info] https://essc-web-dev.hpcloud.hp.com
+[2021-06-24 16:28:57] [nameserver-detection:aws-route53] [dns] [info] https://essc-ws-dev.houston.hp.com
+[2021-06-24 16:28:58] [nameserver-detection:aws-route53] [dns] [info] https://estimator.hp.com
+[2021-06-24 16:28:58] [nameserver-detection:aws-route53] [dns] [info] https://eu-central-1.roam.api.hp.com
+[2021-06-24 16:28:58] [nameserver-detection:aws-route53] [dns] [info] https://eu.daas.api.hp.com
+[2021-06-24 16:28:59] [nameserver-detection:aws-route53] [dns] [info] https://eu.jamanagement.hp.com
+[2021-06-24 16:28:59] [nameserver-detection:aws-route53] [dns] [info] https://eu.shareboard.ext.hp.com
+[2021-06-24 16:28:59] [nameserver-detection:aws-route53] [dns] [info] https://essc-web-dev.houston.hp.com
+[2021-06-24 16:28:59] [nameserver-detection:aws-route53] [dns] [info] https://essc-ws-dev.hpcloud.hp.com
+[2021-06-24 16:29:00] [nameserver-detection:aws-route53] [dns] [info] https://es.spa.hpcloud.hp.com
+[2021-06-24 16:29:00] [nameserver-detection:aws-route53] [dns] [info] https://ets-pie.dataservices.hp.com
+[2021-06-24 16:29:00] [nameserver-detection:aws-route53] [dns] [info] https://ets-stage.dataservices.hp.com
+[2021-06-24 16:29:00] [nameserver-detection:aws-route53] [dns] [info] https://eu.dev.daas.api.hp.com
+[2021-06-24 16:29:00] [nameserver-detection:aws-route53] [dns] [info] https://faa.ext.hp.com
+[2021-06-24 16:29:01] [nameserver-detection:aws-route53] [dns] [info] https://eu.stage.daas.api.hp.com
+[2021-06-24 16:29:01] [nameserver-detection:aws-route53] [dns] [info] https://fse.ext.hp.com
+[2021-06-24 16:29:01] [nameserver-detection:aws-route53] [dns] [info] https://essc-web-itg.hpcloud.hp.com
+[2021-06-24 16:29:02] [nameserver-detection:aws-route53] [dns] [info] https://ets-dev.dataservices.hp.com
+[2021-06-24 16:29:03] [nameserver-detection:aws-route53] [dns] [info] https://fw-security.ext.hp.com
+[2021-06-24 16:29:04] [nameserver-detection:aws-route53] [dns] [info] https://ext-404marcom.hpcloud.hp.com
+[2021-06-24 16:36:18] [wordpress-xmlrpc-file] [http] [info] https://developers.hp.com/xmlrpc.php
+[2021-06-24 16:44:09] [lotus-domino-version:version] [http] [info] https://dialogpartner.glb1.hp.com/iNotes/Forms9.nsf [Forms9.nsf?OpenDatabase]
+[2021-06-24 16:44:26] [lotus-domino-version:version] [http] [info] https://dompartner1a.domino.hp.com/iNotes/Forms9.nsf [Forms9.nsf?OpenDatabase]
+[2021-06-24 16:44:29] [lotus-domino-version:version] [http] [info] https://dompartner1b.domino.hp.com/iNotes/Forms9.nsf [Forms9.nsf?OpenDatabase]
+[2021-06-24 16:44:50] [lotus-domino-version:version] [http] [info] https://dompartner1a.corp.hp.com/iNotes/Forms9.nsf [Forms9.nsf?OpenDatabase]
+[2021-06-24 16:50:00] [oidc-detect] [http] [info] https://d4t5516g.houston.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:07] [oidc-detect] [http] [info] https://directory.dev.cd.id.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:07] [oidc-detect] [http] [info] https://directory.id.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:07] [oidc-detect] [http] [info] https://directory.stg.cd.id.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:07] [oidc-detect] [http] [info] https://directory.us-west-2.dev.cd.id.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:07] [oidc-detect] [http] [info] https://directory.us-east-1.qa.cd.id.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:13] [oidc-detect] [http] [info] https://directory.us-west-2.stg.cd.id.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:22] [oidc-detect] [http] [info] https://enterprisesecurity.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:35] [oidc-detect] [http] [info] https://g1t4673.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:35] [oidc-detect] [http] [info] https://g1t4674.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:35] [oidc-detect] [http] [info] https://g1t4675.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:35] [oidc-detect] [http] [info] https://g1t4676.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:36] [oidc-detect] [http] [info] https://g1t4684.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:36] [oidc-detect] [http] [info] https://g1t4677.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:36] [oidc-detect] [http] [info] https://g1t4679.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:37] [oidc-detect] [http] [info] https://g1t4680.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:42] [oidc-detect] [http] [info] https://g1t4683.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:50:42] [oidc-detect] [http] [info] https://g1t4678.austin.hp.com/.well-known/openid-configuration
+[2021-06-24 16:54:53] [webeditors] [http] [info] https://dialogpartner.glb1.hp.com/fckeditor/_samples/default.html
+[2021-06-24 16:55:15] [webeditors] [http] [info] https://dompartner1a.corp.hp.com/fckeditor/_samples/default.html
+[2021-06-24 16:55:21] [webeditors] [http] [info] https://dompartner1a.domino.hp.com/fckeditor/_samples/default.html

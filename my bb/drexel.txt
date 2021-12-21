@@ -1,0 +1,992 @@
+[2021-07-23 14:39:17] [basic-auth-detection] [http] [info] http://bio.ece.drexel.edu
+[2021-07-23 14:39:17] [default-nginx-page] [http] [info] http://bioimagecx.urcf.drexel.edu
+[2021-07-23 14:39:17] [nginx-version] [http] [info] http://bioimagecx.urcf.drexel.edu [nginx/1.18.0 (Ubuntu)]
+[2021-07-23 14:39:17] [apache-version-detect] [http] [info] http://attila.irttest.drexel.edu [Apache/2.2.15 (Red Hat)]
+[2021-07-23 14:39:18] [apache-version-detect] [http] [info] http://catalog.drexel.edu [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips]
+[2021-07-23 14:39:18] [addeventlistener-detect] [http] [info] http://cloud025.cci.drexel.edu
+[2021-07-23 14:39:18] [nginx-version] [http] [info] http://cloud025.cci.drexel.edu [nginx]
+[2021-07-23 14:39:18] [apache-version-detect] [http] [info] http://cloud073.cci.drexel.edu [Apache/2.4.18 (Ubuntu)]
+[2021-07-23 14:39:18] [apache-version-detect] [http] [info] http://cloud034.cci.drexel.edu [Apache/2.4.18 (Ubuntu)]
+[2021-07-23 14:39:18] [default-apache2-ubuntu-page] [http] [info] http://cloud034.cci.drexel.edu
+[2021-07-23 14:39:18] [nginx-version] [http] [info] http://cloud069.cci.drexel.edu [nginx/1.4.6 (Ubuntu)]
+[2021-07-23 14:39:18] [default-windows-server-page] [http] [info] http://clutch.soe.drexel.edu
+[2021-07-23 14:39:19] [default-windows-server-page] [http] [info] http://cti-xpwscc002.irt.drexel.edu
+[2021-07-23 14:39:19] [default-windows-server-page] [http] [info] http://cti-xpwscc010.irt.drexel.edu
+[2021-07-23 14:39:19] [default-windows-server-page] [http] [info] http://cti-xtwscc004.irttest.drexel.edu
+[2021-07-23 14:39:20] [apache-version-detect] [http] [info] http://datasar.cci.drexel.edu [Apache/2.4.18 (Ubuntu)]
+[2021-07-23 14:39:20] [apache-version-detect] [http] [info] http://du-ia-amethyst.ia.drexel.edu [Apache/2.4.41 (Debian)]
+[2021-07-23 14:39:20] [apache-version-detect] [http] [info] http://duplex.cs.drexel.edu [Apache/2.4.29 (Ubuntu)]
+[2021-07-23 14:39:20] [apache-version-detect] [http] [info] http://ecrystals.chemistry.drexel.edu [Apache/2.2.22 (Debian)]
+[2021-07-23 14:39:20] [default-windows-server-page] [http] [info] http://cti-xtwweb001.irttest.drexel.edu
+[2021-07-23 14:39:20] [apache-version-detect] [http] [info] http://ghmain.ischool.drexel.edu [Apache/2.4.6 (CentOS) PHP/5.4.16]
+[2021-07-23 14:39:20] [default-windows-server-page] [http] [info] http://giocoso.irttest.drexel.edu
+[2021-07-23 14:39:21] [default-nginx-page] [http] [info] http://hedy.ece.drexel.edu
+[2021-07-23 14:39:21] [nginx-version] [http] [info] http://hedy.ece.drexel.edu [nginx/1.4.6 (Ubuntu)]
+[2021-07-23 14:39:21] [credentials-disclosure] [http] [info] http://elvis.biomed.drexel.edu [apikey =]
+[2021-07-23 14:39:21] [apache-version-detect] [http] [info] http://elvis.biomed.drexel.edu [Apache/2.2.24 (Unix) DAV/2 PHP/5.3.26 mod_ssl/2.2.24 OpenSSL/0.9.8y]
+[2021-07-23 14:39:22] [apache-version-detect] [http] [info] http://moog.ece.drexel.edu [Apache/2.4.29 (Ubuntu)]
+[2021-07-23 14:39:22] [default-apache2-ubuntu-page] [http] [info] http://moog.ece.drexel.edu
+[2021-07-23 14:39:22] [apache-version-detect] [http] [info] http://jupiter.physics.drexel.edu [Apache/2.4.46 (Unix)]
+[2021-07-23 14:39:23] [default-windows-server-page] [http] [info] https://accommodate.irttest.drexel.edu
+[2021-07-23 14:39:23] [default-windows-server-page] [http] [info] https://accommodate.drexel.edu
+[2021-07-23 14:39:24] [apache-version-detect] [http] [info] https://anchor.irt.drexel.edu [Apache]
+[2021-07-23 14:39:25] [apache-version-detect] [http] [info] https://alab.physics.drexel.edu [Apache]
+[2021-07-23 14:39:25] [default-windows-server-page] [http] [info] https://access.library.drexel.edu
+[2021-07-23 14:39:25] [default-windows-server-page] [http] [info] https://armstrong4l.irttest.drexel.edu
+[2021-07-23 14:39:27] [apache-version-detect] [http] [info] https://askprospect.drexel.edu [Apache]
+[2021-07-23 14:39:27] [apache-version-detect] [http] [info] https://barreleye.irttest.drexel.edu [Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips]
+[2021-07-23 14:39:28] [default-windows-server-page] [http] [info] https://barrelhouse4l.irt.drexel.edu
+[2021-07-23 14:39:28] [apache-version-detect] [http] [info] https://batray.irt.drexel.edu [Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips]
+[2021-07-23 14:39:28] [nginx-version] [http] [info] https://bioimagefs.coe.drexel.edu [nginx/1.14.0 (Ubuntu)]
+[2021-07-23 14:39:29] [nginx-version] [http] [info] https://bip.cci.drexel.edu [nginx]
+[2021-07-23 14:39:29] [apache-version-detect] [http] [info] https://askdrexel.drexel.edu [Apache]
+[2021-07-23 14:39:31] [apache-version-detect] [http] [info] https://bioimage.coe.drexel.edu [Apache/2.4.29 (Ubuntu)]
+[2021-07-23 14:39:31] [nginx-version] [http] [info] https://ccijw347701.cci.drexel.edu [nginx/1.10.3 (Ubuntu)]
+[2021-07-23 14:39:31] [default-apache-test-page] [http] [info] https://brahma1.library.drexel.edu
+[2021-07-23 14:39:31] [nginx-version] [http] [info] https://centrecounty.cci.drexel.edu [nginx]
+[2021-07-23 14:39:33] [default-apache-test-page] [http] [info] https://cloud.ischool.drexel.edu
+[2021-07-23 14:39:34] [default-apache2-ubuntu-page] [http] [info] https://cloud059.cci.drexel.edu
+[2021-07-23 14:39:34] [nginx-version] [http] [info] https://cloud059.cci.drexel.edu [nginx/1.10.3 (Ubuntu)]
+[2021-07-23 14:39:36] [basic-auth-detection] [http] [info] https://avaug.irt.drexel.edu
+[2021-07-23 14:39:36] [apache-version-detect] [http] [info] https://cloud106.cci.drexel.edu [Apache/2.4.46 (FreeBSD) OpenSSL/1.0.2u-freebsd]
+[2021-07-23 14:39:36] [nginx-version] [http] [info] https://cloud111.cci.drexel.edu [nginx]
+[2021-07-23 14:39:40] [default-windows-server-page] [http] [info] https://cti-kpwsec004.irt.drexel.edu
+[2021-07-23 14:39:40] [apache-version-detect] [http] [info] https://cs550.cci.drexel.edu [Apache/2.4.41 (Ubuntu)]
+[2021-07-23 14:39:41] [apache-version-detect] [http] [info] https://cs360.cci.drexel.edu [Apache/2.4.41 (Ubuntu)]
+[2021-07-23 14:39:41] [default-windows-server-page] [http] [info] https://cti-ktwsec001.irttest.drexel.edu
+[2021-07-23 14:39:42] [default-windows-server-page] [http] [info] https://cti-utwsec001.irttest.drexel.edu
+[2021-07-23 14:39:42] [default-windows-server-page] [http] [info] https://cti-upwsec004.irt.drexel.edu
+[2021-07-23 14:39:47] [default-windows-server-page] [http] [info] https://deptapp08.drexel.edu
+[2021-07-23 14:39:47] [apache-version-detect] [http] [info] https://digimuse.westphal.drexel.edu [Apache]
+[2021-07-23 14:39:48] [default-windows-server-page] [http] [info] https://deptapp16.drexel.edu
+[2021-07-23 14:39:49] [addeventlistener-detect] [http] [info] https://display-240.law.drexel.edu
+[2021-07-23 14:39:49] [addeventlistener-detect] [http] [info] https://display-140.law.drexel.edu
+[2021-07-23 14:39:49] [apache-version-detect] [http] [info] https://display.soe.drexel.edu [Apache]
+[2021-07-23 14:39:50] [apache-version-detect] [http] [info] https://digm.drexel.edu [Apache]
+[2021-07-23 14:39:50] [addeventlistener-detect] [http] [info] https://display-340.law.drexel.edu
+[2021-07-23 14:39:50] [addeventlistener-detect] [http] [info] https://display-301.law.drexel.edu
+[2021-07-23 14:39:51] [default-windows-server-page] [http] [info] https://cti-xpwmvp002.irt.drexel.edu
+[2021-07-23 14:39:52] [default-windows-server-page] [http] [info] https://depttest16.irttest.drexel.edu
+[2021-07-23 14:39:52] [nginx-version] [http] [info] https://docs.cci.drexel.edu [nginx]
+[2021-07-23 14:39:55] [generic-tokens] [http] [info] https://dragonlink.drexel.edu [Key:e,Key":"6LdlpB0TAAAAAJ25ETYC1pRiwGiT7clzxta-HGH0",Token":"CfDJ8Az9GcAD4TpIm2NmyW6ywWEzaZq_uzPx6Zdlvl6ppxZnSWfWpZg9FyJbE3x364RYgwy00TelV4kiTlPV04hq9iFGHNB1sxspy_OFg9W3aP89ksOvbx9UuNt-zEoQtbFy-jD3j9OSap5TPrmHUWASwTs"]
+[2021-07-23 14:39:56] [default-windows-server-page] [http] [info] https://duwde.irt.drexel.edu
+[2021-07-23 14:39:57] [apache-version-detect] [http] [info] https://docss.med.drexel.edu [Apache/2.4.37 (Red Hat Enterprise Linux) mod_perl/2.0.11 Perl/v5.26.3]
+[2021-07-23 14:39:57] [default-fedora-page] [http] [info] https://duhep3.physics.drexel.edu
+[2021-07-23 14:40:00] [apache-version-detect] [http] [info] https://duhep2.physics.drexel.edu [Apache]
+[2021-07-23 14:40:05] [default-windows-server-page] [http] [info] https://esmupdate2.irt.drexel.edu
+[2021-07-23 14:40:07] [default-windows-server-page] [http] [info] https://esmupdate1.irttest.drexel.edu
+[2021-07-23 14:40:07] [default-windows-server-page] [http] [info] https://esmupdate1.irt.drexel.edu
+[2021-07-23 14:40:07] [nginx-version] [http] [info] https://faceshields.cci.drexel.edu [nginx/1.16.1]
+[2021-07-23 14:40:08] [default-windows-server-page] [http] [info] https://esmupdate2.irttest.drexel.edu
+[2021-07-23 14:40:08] [basic-auth-detection] [http] [info] https://fez.cci.drexel.edu
+[2021-07-23 14:40:09] [nginx-version] [http] [info] https://faculty.lebow.drexel.edu [nginx/1.13.5]
+[2021-07-23 14:40:10] [apache-version-detect] [http] [info] https://gethelp.drexel.edu [Apache]
+[2021-07-23 14:40:11] [apache-version-detect] [http] [info] https://groundhog.physics.drexel.edu [Apache]
+[2021-07-23 14:40:11] [apache-version-detect] [http] [info] https://help.cnhp.drexel.edu [Apache]
+[2021-07-23 14:40:11] [nginx-version] [http] [info] https://hive2.cci.drexel.edu [nginx/1.16.1]
+[2021-07-23 14:40:12] [default-apache-test-page] [http] [info] https://icinga1.library.drexel.edu
+[2021-07-23 14:40:12] [nginx-version] [http] [info] https://hive4mat.cci.drexel.edu [nginx/1.16.1]
+[2021-07-23 14:40:12] [nginx-version] [http] [info] https://id.cci.drexel.edu [nginx/1.18.0 (Ubuntu)]
+[2021-07-23 14:40:12] [apache-version-detect] [http] [info] https://idea-isle-staging.library.drexel.edu [Apache/2.4.46 (Ubuntu)]
+[2021-07-23 14:40:12] [nginx-version] [http] [info] https://gpt.cci.drexel.edu [nginx/1.14.1]
+[2021-07-23 14:40:12] [generic-tokens] [http] [info] https://idea-isle-staging.library.drexel.edu [token":"1vr85q3HKFmySUVNmjqZ-M_BjRY8VCjnRzWAQeBKagg"]
+[2021-07-23 14:40:12] [google-floc-disabled] [http] [info] https://idea-isle-staging.library.drexel.edu
+[2021-07-23 14:40:13] [apache-version-detect] [http] [info] https://evie.soe.drexel.edu [Apache]
+[2021-07-23 14:40:14] [apache-version-detect] [http] [info] https://ilab1.physics.drexel.edu [Apache]
+[2021-07-23 14:40:14] [apache-version-detect] [http] [info] https://ilab2.physics.drexel.edu [Apache]
+[2021-07-23 14:40:14] [default-windows-server-page] [http] [info] https://ill.library.drexel.edu
+[2021-07-23 14:40:14] [default-windows-server-page] [http] [info] https://illtest.library.drexel.edu
+[2021-07-23 14:40:14] [generic-tokens] [http] [info] https://idrive.drexel.edu [key="qWdXTnHJ10Jx49vDGu1rC55hVbft577LWGpNqyG6bi394c8s"]
+[2021-07-23 14:40:14] [nginx-version] [http] [info] https://idrive.drexel.edu [nginx]
+[2021-07-23 14:40:15] [apache-version-detect] [http] [info] https://idea.library.drexel.edu [Apache/2.4.46 (Ubuntu)]
+[2021-07-23 14:40:15] [generic-tokens] [http] [info] https://idea.library.drexel.edu [token":"kqJBT_t1ywX7-0eAV-8RoO75uVhMoHPxa1ixQ7RDwes"]
+[2021-07-23 14:40:15] [google-floc-disabled] [http] [info] https://idea.library.drexel.edu
+[2021-07-23 14:40:15] [apache-version-detect] [http] [info] https://ilab4.physics.drexel.edu [Apache]
+[2021-07-23 14:40:16] [default-apache-test-page] [http] [info] https://icinga2.library.drexel.edu
+[2021-07-23 14:40:16] [basic-auth-detection] [http] [info] https://intranet.cci.drexel.edu
+[2021-07-23 14:40:16] [nginx-version] [http] [info] https://intranet.lebow.drexel.edu [nginx/1.13.5]
+[2021-07-23 14:40:16] [apache-version-detect] [http] [info] https://ilab3.physics.drexel.edu [Apache]
+[2021-07-23 14:40:16] [apache-version-detect] [http] [info] https://labserver.physics.drexel.edu [Apache]
+[2021-07-23 14:40:16] [apache-version-detect] [http] [info] https://lambda.cs.drexel.edu [Apache/2.4.46 (FreeBSD) OpenSSL/1.0.2u-freebsd]
+[2021-07-23 14:40:16] [default-fedora-page] [http] [info] https://labserver2.physics.drexel.edu
+[2021-07-23 14:40:17] [default-windows-server-page] [http] [info] https://highwater.irt.drexel.edu
+[2021-07-23 14:40:18] [apache-version-detect] [http] [info] https://labserver3.physics.drexel.edu [Apache]
+[2021-07-23 14:40:18] [nginx-version] [http] [info] https://lcbwww.lebow.drexel.edu [nginx/1.13.5]
+[2021-07-23 14:40:18] [default-windows-server-page] [http] [info] https://lcb-dp1.lebow.drexel.edu
+[2021-07-23 14:40:18] [jwt-token] [http] [info] https://learn.drexel.edu [eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJBTExZIiwic3ViIjoiQUxMWV9UT0tFTiIsImZpbGVJZHMiOltdLCJjb3Vyc2VSb2xlIjoiIiwiaXNzIjoiZTRSbzQ0aVhPMjA5VkF2MTV3TjZ6WlRmRTJmOTAxSUYiLCJyaWNoQ29udGVudElkcyI6W10sImV4cCI6MTYyNzAzMTcyNCwiaWF0IjoxNjI3MDMxNDI0LCJjb3Vyc2VJZCI6IiIsInVzZXJJZCI6IiJ9.4RG2LKhRQMJCCDIatI0o0tbF83HCrTAXQu03CwLEVhY]
+[2021-07-23 14:40:19] [nginx-version] [http] [info] https://lf.irt.drexel.edu [nginx]
+[2021-07-23 14:40:19] [nginx-version] [http] [info] https://libcal.library.drexel.edu [nginx]
+[2021-07-23 14:40:19] [jwt-token] [http] [info] https://learn9-stage.irttest.drexel.edu [eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJBTExZIiwic3ViIjoiQUxMWV9UT0tFTiIsImZpbGVJZHMiOltdLCJjb3Vyc2VSb2xlIjoiIiwiaXNzIjoiZTRSbzQ0aVhPMjA5VkF2MTV3TjZ6WlRmRTJmOTAxSUYiLCJyaWNoQ29udGVudElkcyI6W10sImV4cCI6MTYyNzAzMTcyNSwiaWF0IjoxNjI3MDMxNDI1LCJjb3Vyc2VJZCI6IiIsInVzZXJJZCI6IiJ9.QrYI-XZ6mju-5kn_8XhSnA6Pw5v2lKFSBxBuYcPZ4as]
+[2021-07-23 14:40:20] [jwt-token] [http] [info] https://learning.drexel.edu [eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJBTExZIiwic3ViIjoiQUxMWV9UT0tFTiIsImZpbGVJZHMiOltdLCJjb3Vyc2VSb2xlIjoiIiwiaXNzIjoiZTRSbzQ0aVhPMjA5VkF2MTV3TjZ6WlRmRTJmOTAxSUYiLCJyaWNoQ29udGVudElkcyI6W10sImV4cCI6MTYyNzAzMTcyNSwiaWF0IjoxNjI3MDMxNDI1LCJjb3Vyc2VJZCI6IiIsInVzZXJJZCI6IiJ9.QrYI-XZ6mju-5kn_8XhSnA6Pw5v2lKFSBxBuYcPZ4as]
+[2021-07-23 14:40:20] [apache-version-detect] [http] [info] https://linux.cci.drexel.edu [Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_perl/2.0.11 Perl/v5.16.3]
+[2021-07-23 14:40:21] [nginx-version] [http] [info] https://lincs.cci.drexel.edu [nginx]
+[2021-07-23 14:40:21] [apache-version-detect] [http] [info] https://ltgmedia.online.drexel.edu [Apache]
+[2021-07-23 14:40:22] [default-windows-server-page] [http] [info] https://lxu-uniprint.library.drexel.edu
+[2021-07-23 14:40:23] [apache-version-detect] [http] [info] https://mcd.ischool.drexel.edu [Apache]
+[2021-07-23 14:40:26] [apache-version-detect] [http] [info] https://mimas.physics.drexel.edu [Apache/2.4.16 (Unix) PHP/5.5.38 OpenSSL/0.9.8zg]
+[2021-07-23 14:40:26] [default-windows-server-page] [http] [info] https://mudbank.irttest.drexel.edu
+[2021-07-23 14:40:30] [default-windows-server-page] [http] [info] https://maltese.irt.drexel.edu
+[2021-07-23 14:40:30] [nginx-version] [http] [info] https://mandell-signage.westphal.drexel.edu [nginx]
+[2021-07-23 14:40:33] [default-windows-server-page] [http] [info] https://myhousing.drexel.edu
+[2021-07-23 14:48:16] [mysql-native-password-bruteforce] [network] [info] clash.biomed.drexel.edu:3306
+[2021-07-23 14:48:46] [mysql-native-password-bruteforce] [network] [info] ace2dev.cci.drexel.edu:3306
+[2021-07-23 14:49:13] [mysql-native-password-bruteforce] [network] [info] cloud075.cci.drexel.edu:3306
+[2021-07-23 14:49:42] [s3-detect] [http] [info] https://impact.giving.drexel.edu/%c0
+[2021-07-23 14:50:16] [mysql-native-password-bruteforce] [network] [info] ilab1.physics.drexel.edu:3306
+[2021-07-23 14:50:47] [mysql-native-password-bruteforce] [network] [info] mimas.physics.drexel.edu:3306
+[2021-07-23 14:53:59] [oauth2-detect] [http] [info] https://cloud055.cci.drexel.edu/oauth/token
+[2021-07-23 14:54:20] [oauth2-detect] [http] [info] https://git-bioimage.coe.drexel.edu/oauth/token
+[2021-07-23 14:54:21] [oauth2-detect] [http] [info] https://gitlab.soe.drexel.edu/oauth/token
+[2021-07-23 14:54:31] [oauth2-detect] [http] [info] https://lcb-gl.lebow.drexel.edu/oauth/token
+[2021-07-23 15:03:23] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/31 [uid=31]
+[2021-07-23 15:03:23] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/42 [uid=42]
+[2021-07-23 15:03:23] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/43 [uid=43]
+[2021-07-23 15:03:23] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/44 [uid=44]
+[2021-07-23 15:03:24] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/33 [uid=33]
+[2021-07-23 15:03:24] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/26 [uid=26]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/53 [uid=53]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/56 [uid=56]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/52 [uid=52]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/51 [uid=51]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/85 [uid=85]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/86 [uid=86]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/89 [uid=89]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/87 [uid=87]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/88 [uid=88]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/98 [uid=98]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/58 [uid=58]
+[2021-07-23 15:03:32] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/57 [uid=57]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/59 [uid=59]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/60 [uid=60]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/61 [uid=61]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/68 [uid=68]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/70 [uid=70]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/69 [uid=69]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/71 [uid=71]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/72 [uid=72]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/73 [uid=73]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/74 [uid=74]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/97 [uid=97]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/95 [uid=95]
+[2021-07-23 15:03:33] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/96 [uid=96]
+[2021-07-23 15:03:34] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/99 [uid=99]
+[2021-07-23 15:03:34] [gitlab-user-open-api] [http] [medium] https://cloud055.cci.drexel.edu/api/v4/users/100 [uid=100]
+[2021-07-23 15:05:25] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/32 [uid=32]
+[2021-07-23 15:05:25] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/49 [uid=49]
+[2021-07-23 15:05:26] [gitlab-user-open-api] [http] [medium] https://gitlab.soe.drexel.edu/api/v4/users/6 [uid=6]
+[2021-07-23 15:05:26] [gitlab-user-open-api] [http] [medium] https://git.lebow.drexel.edu/api/v4/users/12 [uid=12]
+[2021-07-23 15:05:33] [gitlab-user-open-api] [http] [medium] https://git-bioimage.coe.drexel.edu/api/v4/users/77 [uid=77]
+[2021-07-23 15:05:33] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/52 [uid=52]
+[2021-07-23 15:05:33] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/51 [uid=51]
+[2021-07-23 15:05:33] [gitlab-user-open-api] [http] [medium] https://git-bioimage.coe.drexel.edu/api/v4/users/82 [uid=82]
+[2021-07-23 15:05:33] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/98 [uid=98]
+[2021-07-23 15:05:33] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/63 [uid=63]
+[2021-07-23 15:05:34] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/53 [uid=53]
+[2021-07-23 15:05:34] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/99 [uid=99]
+[2021-07-23 15:05:34] [gitlab-user-open-api] [http] [medium] https://gitlab.cci.drexel.edu/api/v4/users/100 [uid=100]
+[2021-07-23 15:06:24] [gitlab-user-open-api] [http] [medium] https://lcb-gl.lebow.drexel.edu/api/v4/users/17 [uid=17]
+[2021-07-23 15:06:25] [gitlab-user-open-api] [http] [medium] https://lcb-gl.lebow.drexel.edu/api/v4/users/12 [uid=12]
+[2021-07-23 15:06:25] [gitlab-user-open-api] [http] [medium] https://lcb-gl.lebow.drexel.edu/api/v4/users/15 [uid=15]
+[2021-07-23 15:06:41] [gitlab-public-repos] [http] [info] https://cloud055.cci.drexel.edu/api/v4/projects
+[2021-07-23 15:07:44] [wordpress-xmlrpc-file] [http] [info] https://idea.library.drexel.edu/xmlrpc.php
+[2021-07-23 15:20:22] [aspx-debug-mode] [http] [info] https://candidquestion.irttest.drexel.edu/Foobar-debug.aspx
+[2021-07-23 15:20:49] [aspx-debug-mode] [http] [info] https://faculty.coe.drexel.edu/Foobar-debug.aspx
+[2021-07-23 15:21:02] [aspx-debug-mode] [http] [info] https://lidratool.cae.drexel.edu/Foobar-debug.aspx
+[2021-07-23 15:21:03] [nameserver-detection:cloudflare] [dns] [info] https://alumni.drexel.edu
+[2021-07-23 15:21:05] [nameserver-detection:aws-route53] [dns] [info] https://admissions.drexel.edu
+[2021-07-23 15:21:07] [nameserver-detection:aws-route53] [dns] [info] https://cabrini-learn.irttest.drexel.edu
+[2021-07-23 15:21:16] [nameserver-detection:cloudflare] [dns] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 15:21:16] [nameserver-detection:aws-route53] [dns] [info] https://discover.drexel.edu
+[2021-07-23 15:21:17] [nameserver-detection:aws-route53] [dns] [info] https://duo.online.drexel.edu
+[2021-07-23 15:21:18] [nameserver-detection:azure] [dns] [info] https://dragonlink.drexel.edu
+[2021-07-23 15:21:24] [nameserver-detection:aws-route53] [dns] [info] https://impact.giving.drexel.edu
+[2021-07-23 15:21:26] [nameserver-detection:aws-route53] [dns] [info] https://info.soe.drexel.edu
+[2021-07-23 15:21:28] [nameserver-detection:aws-route53] [dns] [info] https://libcal.library.drexel.edu
+[2021-07-23 15:21:29] [nameserver-detection:aws-route53] [dns] [info] https://learn9-stage.irttest.drexel.edu
+[2021-07-23 15:21:30] [nameserver-detection:aws-route53] [dns] [info] https://learn9.irttest.drexel.edu
+[2021-07-23 15:21:30] [nameserver-detection:aws-route53] [dns] [info] https://libguides.library.drexel.edu
+[2021-07-23 15:21:30] [nameserver-detection:aws-route53] [dns] [info] https://learn.drexel.edu
+[2021-07-23 15:21:34] [nameserver-detection:aws-route53] [dns] [info] https://medaille-learn.irttest.drexel.edu
+[2021-07-23 15:22:44] [apache-filename-brute-force] [http] [low] https://ltgmedia.online.drexel.edu/index
+[2021-07-23 15:23:06] [CVE-2017-5487] [http] [info] http://cloud035.cci.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:23:24] [CVE-2017-5487] [http] [info] https://4dprinting.mem.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:23:29] [CVE-2017-5487] [http] [info] https://4dprinting.mem.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:23:45] [CVE-2017-5487] [http] [info] https://biomech.mem.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:23:48] [CVE-2017-5487] [http] [info] https://bseg.cae.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:23:54] [CVE-2017-5487] [http] [info] https://cepes1.ece.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:23:59] [CVE-2017-5487] [http] [info] https://bseg.cae.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:24:04] [CVE-2017-5487] [http] [info] https://combustion.mem.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:24:12] [CVE-2017-5487] [http] [info] https://combustion.mem.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:24:23] [gitlab-public-snippets] [http] [info] https://cloud055.cci.drexel.edu/explore/snippets
+[2021-07-23 15:24:26] [CVE-2017-5487] [http] [info] https://dlux.cae.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:24:29] [CVE-2017-5487] [http] [info] https://dlux.cae.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:24:41] [CVE-2017-5487] [http] [info] https://electrochemistry.materials.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:24:42] [CVE-2017-5487] [http] [info] https://electrochemistry.materials.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:24:51] [CVE-2017-5487] [http] [info] https://films.materials.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:24:53] [CVE-2017-5487] [http] [info] https://films.materials.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:24:54] [CVE-2017-5487] [http] [info] https://ice.ece.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:24:57] [CVE-2017-5487] [http] [info] https://ice.ece.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:04] [CVE-2017-5487] [http] [info] https://johnfryblog.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:05] [CVE-2017-5487] [http] [info] https://is4health.cci.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:06] [CVE-2017-5487] [http] [info] https://johnfryblog.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:07] [CVE-2017-5487] [http] [info] https://is4health.cci.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:14] [gitlab-public-snippets] [http] [info] https://gitlab.cci.drexel.edu/explore/snippets
+[2021-07-23 15:25:22] [CVE-2017-5487] [http] [info] https://machineshop.coe.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:22] [CVE-2017-5487] [http] [info] https://macro.materials.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:24] [CVE-2017-5487] [http] [info] https://max.materials.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:25] [CVE-2017-5487] [http] [info] https://machineshop.coe.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:25] [CVE-2017-5487] [http] [info] https://macro.materials.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:29] [CVE-2017-5487] [http] [info] https://max.materials.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:29] [CVE-2017-5487] [http] [info] https://microbes.cae.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:30] [CVE-2017-5487] [http] [info] https://misl.ece.drexel.edu/wp-json/wp/v2/users/
+[2021-07-23 15:25:32] [CVE-2017-5487] [http] [info] https://misl.ece.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:33] [CVE-2017-5487] [http] [info] https://microbes.cae.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:36] [CVE-2017-5487] [http] [info] https://mcmblab.mem.drexel.edu/?rest_route=/wp/v2/users/
+[2021-07-23 15:25:53] [vmware-horizon] [http] [info] https://myvirtual.drexel.edu/portal/webclient/index.html
+[2021-07-23 15:29:44] [ups-status] [http] [low] https://bioimage.coe.drexel.edu/cgi-bin/apcupsd/multimon.cgi
+[2021-07-23 15:31:31] [polycom-login] [http] [info] https://3pw1043polycom.cnhp.drexel.edu/login.html
+[2021-07-23 15:53:15] [solr-exposure] [http] [medium] http://datasar.cci.drexel.edu/solr/
+[2021-07-23 15:53:18] [solr-exposure] [http] [medium] http://cloud073.cci.drexel.edu/solr/
+[2021-07-23 15:53:31] [favicon-detection:nuxt-js] [http] [info] http://cloud025.cci.drexel.edu/favicon.ico
+[2021-07-23 15:53:32] [favicon-detection:apache-tomcat] [http] [info] http://cloud073.cci.drexel.edu/favicon.ico
+[2021-07-23 15:53:38] [favicon-detection:apache-tomcat] [http] [info] http://datasar.cci.drexel.edu/favicon.ico
+[2021-07-23 15:53:39] [favicon-detection:microsoft-outlook] [http] [info] http://autodiscover.irttest.drexel.edu/favicon.ico
+[2021-07-23 15:53:55] [favicon-detection:react] [http] [info] https://centrecounty.cci.drexel.edu/favicon.ico
+[2021-07-23 15:53:56] [favicon-detection:blackboard] [http] [info] https://cabrini-learn.irttest.drexel.edu/favicon.ico
+[2021-07-23 15:54:00] [favicon-detection:gitlab] [http] [info] https://cloud055.cci.drexel.edu/favicon.ico
+[2021-07-23 15:54:05] [favicon-detection:tableau] [http] [info] https://cti-xpwgen013.irt.drexel.edu/favicon.ico
+[2021-07-23 15:54:18] [favicon-detection:netgear-readynas] [http] [info] https://gambit.ece.drexel.edu/favicon.ico
+[2021-07-23 15:54:19] [favicon-detection:gitlab] [http] [info] https://git.lebow.drexel.edu/favicon.ico
+[2021-07-23 15:54:20] [favicon-detection:gitlab] [http] [info] https://git-bioimage.coe.drexel.edu/favicon.ico
+[2021-07-23 15:54:20] [favicon-detection:gitlab] [http] [info] https://gitlab.soe.drexel.edu/favicon.ico
+[2021-07-23 15:54:34] [favicon-detection:blackboard] [http] [info] https://learn.drexel.edu/favicon.ico
+[2021-07-23 15:54:34] [favicon-detection:blackboard] [http] [info] https://learn9-stage.irttest.drexel.edu/favicon.ico
+[2021-07-23 15:54:34] [favicon-detection:blackboard] [http] [info] https://learn9.irttest.drexel.edu/favicon.ico
+[2021-07-23 15:54:34] [favicon-detection:blackboard] [http] [info] https://learning.drexel.edu/favicon.ico
+[2021-07-23 15:54:36] [favicon-detection:gitlab] [http] [info] https://lcb-gl.lebow.drexel.edu/favicon.ico
+[2021-07-23 15:54:48] [favicon-detection:blackboard] [http] [info] https://medaille-learn.irttest.drexel.edu/favicon.ico
+[2021-07-23 16:00:21] [mx-service-detector:Office 365] [dns] [info] http://ischool.drexel.edu
+[2021-07-23 16:00:28] [mx-service-detector:Office 365] [dns] [info] https://coe.drexel.edu
+[2021-07-23 16:00:31] [mx-service-detector:Office 365] [dns] [info] https://ece.drexel.edu
+[2021-07-23 16:00:31] [mx-service-detector:Office 365] [dns] [info] https://cs.drexel.edu
+[2021-07-23 16:18:44] [openssh-username-enumeration] [network] [medium] acva2010.cs.drexel.edu:22
+[2021-07-23 16:18:45] [openssh-username-enumeration] [network] [medium] bio.ece.drexel.edu:22
+[2021-07-23 16:18:46] [openssh-username-enumeration] [network] [medium] catalog.drexel.edu:22
+[2021-07-23 16:18:54] [openssh-username-enumeration] [network] [medium] cloud035.cci.drexel.edu:22
+[2021-07-23 16:18:54] [openssh-username-enumeration] [network] [medium] cloud025.cci.drexel.edu:22
+[2021-07-23 16:18:54] [openssh-username-enumeration] [network] [medium] cluster.cis.drexel.edu:22
+[2021-07-23 16:18:55] [openssh-username-enumeration] [network] [medium] cloud012.cci.drexel.edu:22
+[2021-07-23 16:18:57] [openssh-username-enumeration] [network] [medium] cloud034.cci.drexel.edu:22
+[2021-07-23 16:18:57] [openssh-username-enumeration] [network] [medium] creesekeybox.student-life.drexel.edu:22
+[2021-07-23 16:19:05] [openssh-username-enumeration] [network] [medium] dunx1.irt.drexel.edu:22
+[2021-07-23 16:19:06] [openssh-username-enumeration] [network] [medium] ghmain.ischool.drexel.edu:22
+[2021-07-23 16:19:07] [openssh-username-enumeration] [network] [medium] hedy.ece.drexel.edu:22
+[2021-07-23 16:19:07] [openssh-username-enumeration] [network] [medium] httpsrv.irt.drexel.edu:22
+[2021-07-23 16:19:08] [openssh-username-enumeration] [network] [medium] elvis.biomed.drexel.edu:22
+[2021-07-23 16:19:14] [openssh-username-enumeration] [network] [medium] moog.ece.drexel.edu:22
+[2021-07-23 16:19:15] [openssh-username-enumeration] [network] [medium] 3pw1043polycom.cnhp.drexel.edu:22
+[2021-07-23 16:19:17] [openssh-username-enumeration] [network] [medium] metadatace.cci.drexel.edu:22
+[2021-07-23 16:19:17] [openssh-username-enumeration] [network] [medium] ace2dev.cci.drexel.edu:22
+[2021-07-23 16:19:37] [openssh-username-enumeration] [network] [medium] ccijw347701.cci.drexel.edu:22
+[2021-07-23 16:19:38] [openssh-username-enumeration] [network] [medium] centrecounty.cci.drexel.edu:22
+[2021-07-23 16:19:41] [openssh-username-enumeration] [network] [medium] cloud046.cci.drexel.edu:22
+[2021-07-23 16:19:41] [openssh-username-enumeration] [network] [medium] cloud055.cci.drexel.edu:22
+[2021-07-23 16:19:42] [openssh-username-enumeration] [network] [medium] cloud059.cci.drexel.edu:22
+[2021-07-23 16:19:44] [openssh-username-enumeration] [network] [medium] cloud089.cci.drexel.edu:22
+[2021-07-23 16:19:45] [openssh-username-enumeration] [network] [medium] cloud106.cci.drexel.edu:22
+[2021-07-23 16:19:50] [openssh-username-enumeration] [network] [medium] cloud075.cci.drexel.edu:22
+[2021-07-23 16:20:00] [openssh-username-enumeration] [network] [medium] currentcatalog.drexel.edu:22
+[2021-07-23 16:20:05] [openssh-username-enumeration] [network] [medium] digimuse.westphal.drexel.edu:22
+[2021-07-23 16:20:07] [openssh-username-enumeration] [network] [medium] digm.drexel.edu:22
+[2021-07-23 16:20:09] [openssh-username-enumeration] [network] [medium] duhep2.physics.drexel.edu:22
+[2021-07-23 16:20:10] [openssh-username-enumeration] [network] [medium] duphy4.physics.drexel.edu:22
+[2021-07-23 16:20:13] [openssh-username-enumeration] [network] [medium] duphy4.drexel.edu:22
+[2021-07-23 16:20:19] [openssh-username-enumeration] [network] [medium] einstein.physics.drexel.edu:22
+[2021-07-23 16:20:22] [openssh-username-enumeration] [network] [medium] faceshields.cci.drexel.edu:22
+[2021-07-23 16:20:28] [openssh-username-enumeration] [network] [medium] fragilehedgehog.bioscience.drexel.edu:22
+[2021-07-23 16:20:28] [openssh-username-enumeration] [network] [medium] gitlab.cci.drexel.edu:22
+[2021-07-23 16:20:29] [openssh-username-enumeration] [network] [medium] gmat.lebow.drexel.edu:22
+[2021-07-23 16:20:31] [openssh-username-enumeration] [network] [medium] hive2.cci.drexel.edu:22
+[2021-07-23 16:20:31] [openssh-username-enumeration] [network] [medium] hive4mat.cci.drexel.edu:22
+[2021-07-23 16:20:32] [openssh-username-enumeration] [network] [medium] humpty.cs.drexel.edu:22
+[2021-07-23 16:20:38] [openssh-username-enumeration] [network] [medium] ilab1.physics.drexel.edu:22
+[2021-07-23 16:20:38] [openssh-username-enumeration] [network] [medium] ilab2.physics.drexel.edu:22
+[2021-07-23 16:20:39] [openssh-username-enumeration] [network] [medium] ilab3.physics.drexel.edu:22
+[2021-07-23 16:20:42] [openssh-username-enumeration] [network] [medium] johnfryblog.drexel.edu:22
+[2021-07-23 16:20:44] [openssh-username-enumeration] [network] [medium] labserver.physics.drexel.edu:22
+[2021-07-23 16:20:45] [openssh-username-enumeration] [network] [medium] lambda.cs.drexel.edu:22
+[2021-07-23 16:20:46] [openssh-username-enumeration] [network] [medium] labserver3.physics.drexel.edu:22
+[2021-07-23 16:20:52] [openssh-username-enumeration] [network] [medium] linux.cci.drexel.edu:22
+[2021-07-23 16:20:53] [openssh-username-enumeration] [network] [medium] linux.ischool.drexel.edu:22
+[2021-07-23 16:21:01] [openssh-username-enumeration] [network] [medium] mcd.ischool.drexel.edu:22
+[2021-07-23 16:21:06] [openssh-username-enumeration] [network] [medium] mimas.physics.drexel.edu:22
+[2021-07-23 16:33:00] [wordpress-panel] [http] [info] http://cloud035.cci.drexel.edu/wp-login.php
+[2021-07-23 16:33:10] [wordpress-panel] [http] [info] https://4dprinting.mem.drexel.edu/wp-login.php
+[2021-07-23 16:33:42] [wordpress-panel] [http] [info] https://is4health.cci.drexel.edu/wp-login.php
+[2021-07-23 16:33:51] [wordpress-panel] [http] [info] https://mcd.ischool.drexel.edu/wp-login.php
+[2021-07-23 16:41:33] [tech-detect:ms-httpapi] [http] [info] http://akero.irt.drexel.edu
+[2021-07-23 16:41:34] [tech-detect:apache] [http] [info] http://attila.irttest.drexel.edu
+[2021-07-23 16:41:34] [tech-detect:ms-httpapi] [http] [info] http://blackmamba.irttest.drexel.edu
+[2021-07-23 16:41:34] [tech-detect:apache] [http] [info] http://bio.ece.drexel.edu
+[2021-07-23 16:41:34] [tech-detect:ms-httpapi] [http] [info] http://ces-scgold-edit.drexel.edu
+[2021-07-23 16:41:34] [tech-detect:ms-httpapi] [http] [info] http://ces-scgold-future.drexel.edu
+[2021-07-23 16:41:34] [tech-detect:ms-iis] [http] [info] http://biopolymers.mem.drexel.edu
+[2021-07-23 16:41:35] [tech-detect:ms-httpapi] [http] [info] http://ces-scgold-t1-edit.irttest.drexel.edu
+[2021-07-23 16:41:35] [tech-detect:ms-httpapi] [http] [info] http://ces-scgold-training.drexel.edu
+[2021-07-23 16:41:35] [tech-detect:nginx] [http] [info] http://clash.biomed.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:ms-httpapi] [http] [info] http://advanceweb-upgr.irttest.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:nginx] [http] [info] http://bioimagecx.urcf.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:jsdelivr] [http] [info] http://cloud025.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:nuxt.js] [http] [info] http://cloud025.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:google-font-api] [http] [info] http://cloud025.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:nginx] [http] [info] http://cloud025.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:apache] [http] [info] http://cloud034.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:google-font-api] [http] [info] http://cloud069.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:angular] [http] [info] http://cloud069.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:nginx] [http] [info] http://cloud069.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:angularjs] [http] [info] http://cloud069.cci.drexel.edu
+[2021-07-23 16:41:36] [tech-detect:ms-iis] [http] [info] http://clutch.soe.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:ms-httpapi] [http] [info] http://coe-web03.coe.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:lighttpd] [http] [info] http://creesekeybox.student-life.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:ms-httpapi] [http] [info] http://cti-ktwgen012.irttest.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:google-font-api] [http] [info] http://cloud073.cci.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:apache] [http] [info] http://cloud073.cci.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:google-tag-manager] [http] [info] http://catalog.drexel.edu
+[2021-07-23 16:41:37] [tech-detect:apache] [http] [info] http://catalog.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwapp001.irt.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwscc001.irt.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-iis] [http] [info] http://cti-xpwscc002.irt.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwscc003.irt.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwscc006.irt.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-kpwmed001.medaille.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwscc007.irt.drexel.edu
+[2021-07-23 16:41:38] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwscc024.irt.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:ms-httpapi] [http] [info] http://cti-xpwscc025.irt.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:ms-httpapi] [http] [info] http://cti-xtwscc001.irttest.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:apache] [http] [info] http://cloud012.cci.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:youtube] [http] [info] http://cloud012.cci.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:mediawiki] [http] [info] http://cloud012.cci.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:ms-iis] [http] [info] http://cti-xtwscc005.irttest.drexel.edu
+[2021-07-23 16:41:39] [tech-detect:ms-iis] [http] [info] http://cti-xtwweb001.irttest.drexel.edu
+[2021-07-23 16:41:40] [tech-detect:ms-httpapi] [http] [info] http://davs-r102.cnhp.drexel.edu
+[2021-07-23 16:41:41] [tech-detect:ms-httpapi] [http] [info] http://davs-r101.cnhp.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:ms-iis] [http] [info] http://ac1.chemistry.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:ms-httpapi] [http] [info] http://advanceweb-anst.irttest.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:apache] [http] [info] http://du-ia-amethyst.ia.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:ms-httpapi] [http] [info] http://cti-xtwscc002.irttest.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:apache] [http] [info] http://ecrystals.chemistry.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:apache] [http] [info] http://duplex.cs.drexel.edu
+[2021-07-23 16:41:42] [tech-detect:ms-httpapi] [http] [info] http://dvcs2.cnhp.drexel.edu
+[2021-07-23 16:41:43] [tech-detect:apache] [http] [info] http://ghmain.ischool.drexel.edu
+[2021-07-23 16:41:43] [tech-detect:google-font-api] [http] [info] http://datasar.cci.drexel.edu
+[2021-07-23 16:41:43] [tech-detect:apache] [http] [info] http://datasar.cci.drexel.edu
+[2021-07-23 16:41:43] [tech-detect:apache] [http] [info] http://elvis.biomed.drexel.edu
+[2021-07-23 16:41:43] [tech-detect:php] [http] [info] http://elvis.biomed.drexel.edu
+[2021-07-23 16:41:43] [tech-detect:ms-iis] [http] [info] http://giocoso.irttest.drexel.edu
+[2021-07-23 16:41:44] [tech-detect:ms-iis] [http] [info] http://h2designlab.cci.drexel.edu
+[2021-07-23 16:41:44] [tech-detect:ms-iis] [http] [info] http://cti-xpwscc010.irt.drexel.edu
+[2021-07-23 16:41:45] [tech-detect:ms-iis] [http] [info] http://cti-xtwscc004.irttest.drexel.edu
+[2021-07-23 16:41:45] [tech-detect:ms-iis] [http] [info] http://lcbwmj.lebow.drexel.edu
+[2021-07-23 16:41:45] [tech-detect:ms-iis] [http] [info] http://dvcs1.cnhp.drexel.edu
+[2021-07-23 16:41:46] [tech-detect:lighttpd] [http] [info] http://korman013-extronswtch.irt.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:font-awesome] [http] [info] http://labs.coe.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:ms-iis] [http] [info] http://labs.coe.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:php] [http] [info] http://labs.coe.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:wordpress] [http] [info] http://labs.coe.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:sitecore] [http] [info] http://labs.coe.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:apache] [http] [info] http://jupiter.physics.drexel.edu
+[2021-07-23 16:41:47] [tech-detect:apache] [http] [info] http://moog.ece.drexel.edu
+[2021-07-23 16:41:48] [tech-detect:ms-httpapi] [http] [info] http://davs-sql.cnhp.drexel.edu
+[2021-07-23 16:41:49] [tech-detect:ms-iis] [http] [info] http://dunx1.irt.drexel.edu
+[2021-07-23 16:41:50] [tech-detect:wordpress] [http] [info] https://4dprinting.mem.drexel.edu
+[2021-07-23 16:41:50] [tech-detect:font-awesome] [http] [info] https://4dprinting.mem.drexel.edu
+[2021-07-23 16:41:50] [tech-detect:google-font-api] [http] [info] https://4dprinting.mem.drexel.edu
+[2021-07-23 16:41:50] [tech-detect:ms-iis] [http] [info] https://4dprinting.mem.drexel.edu
+[2021-07-23 16:41:50] [tech-detect:php] [http] [info] https://4dprinting.mem.drexel.edu
+[2021-07-23 16:41:52] [tech-detect:lighttpd] [http] [info] https://631tp.cnhp.drexel.edu
+[2021-07-23 16:41:52] [tech-detect:react] [http] [info] http://faculty.mem.drexel.edu
+[2021-07-23 16:41:52] [tech-detect:google-tag-manager] [http] [info] http://faculty.mem.drexel.edu
+[2021-07-23 16:41:52] [tech-detect:sitecore] [http] [info] http://faculty.mem.drexel.edu
+[2021-07-23 16:41:52] [tech-detect:ms-iis] [http] [info] http://faculty.mem.drexel.edu
+[2021-07-23 16:41:52] [tech-detect:microsoft-asp.net] [http] [info] http://faculty.mem.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:ms-iis] [http] [info] https://access.library.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:ms-iis] [http] [info] https://accommodate.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:nginx] [http] [info] http://hedy.ece.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:ms-httpapi] [http] [info] http://help.coe.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:ms-iis] [http] [info] https://accommodate.irttest.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:ms-iis] [http] [info] http://httpsrv.irt.drexel.edu
+[2021-07-23 16:41:53] [tech-detect:lighttpd] [http] [info] https://989polycom.cnhp.drexel.edu
+[2021-07-23 16:41:54] [tech-detect:ms-iis] [http] [info] https://accounts-t.irttest.drexel.edu
+[2021-07-23 16:41:54] [tech-detect:ms-iis] [http] [info] https://accounts.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:ms-iis] [http] [info] https://apidata.irt.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:django] [http] [info] https://ace2dev.cci.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:nginx] [http] [info] https://ace2dev.cci.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:ms-iis] [http] [info] https://apps2.coe.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:apache] [http] [info] https://anchor.irt.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:jetty] [http] [info] https://archivalcollections.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:microsoft-asp.net] [http] [info] https://ansp-user.irttest.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:google-tag-manager] [http] [info] https://ansp-user.irttest.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:youtube] [http] [info] https://ansp-user.irttest.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:sitecore] [http] [info] https://ansp-user.irttest.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:ms-iis] [http] [info] https://ansp-user.irttest.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:google-tag-manager] [http] [info] https://accepted.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:youtube] [http] [info] https://accepted.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:sitecore] [http] [info] https://accepted.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:ms-iis] [http] [info] https://accepted.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:microsoft-asp.net] [http] [info] https://accepted.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:microsoft-asp.net] [http] [info] https://advanceweb.drexel.edu
+[2021-07-23 16:41:55] [tech-detect:ms-iis] [http] [info] https://advanceweb.drexel.edu
+[2021-07-23 16:41:56] [tech-detect:ms-iis] [http] [info] https://armstrong4l.irttest.drexel.edu
+[2021-07-23 16:41:56] [tech-detect:ms-iis] [http] [info] https://apps.med.drexel.edu
+[2021-07-23 16:41:56] [tech-detect:ms-iis] [http] [info] https://ask.drexel.edu
+[2021-07-23 16:41:56] [tech-detect:ms-iis] [http] [info] https://apps.research.drexel.edu
+[2021-07-23 16:41:56] [tech-detect:ms-iis] [http] [info] https://avaug.irt.drexel.edu
+[2021-07-23 16:41:57] [tech-detect:apache] [http] [info] https://barreleye.irttest.drexel.edu
+[2021-07-23 16:41:57] [tech-detect:ms-httpapi] [http] [info] https://bannerweb.drexel.edu
+[2021-07-23 16:41:58] [tech-detect:ms-iis] [http] [info] https://barrelhouse4l.irt.drexel.edu
+[2021-07-23 16:41:58] [tech-detect:ms-iis] [http] [info] https://apps.coe.drexel.edu
+[2021-07-23 16:41:58] [tech-detect:ms-httpapi] [http] [info] https://batcreek.irt.drexel.edu
+[2021-07-23 16:41:59] [tech-detect:ms-iis] [http] [info] https://bas01.facmgmt.drexel.edu
+[2021-07-23 16:41:59] [tech-detect:apache] [http] [info] https://bioimage.coe.drexel.edu
+[2021-07-23 16:42:00] [tech-detect:nginx] [http] [info] https://bioimagefs.coe.drexel.edu
+[2021-07-23 16:42:00] [tech-detect:apache] [http] [info] https://batray.irt.drexel.edu
+[2021-07-23 16:42:00] [tech-detect:google-font-api] [http] [info] https://benmas2014.coe.drexel.edu
+[2021-07-23 16:42:00] [tech-detect:ms-iis] [http] [info] https://benmas2014.coe.drexel.edu
+[2021-07-23 16:42:00] [tech-detect:apache] [http] [info] https://askdrexel.drexel.edu
+[2021-07-23 16:42:00] [tech-detect:apache] [http] [info] https://askprospect.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:nginx] [http] [info] https://bip.cci.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:ms-iis] [http] [info] https://blackhill.irt.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:google-font-api] [http] [info] https://bio.materials.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:ms-iis] [http] [info] https://bio.materials.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:ms-iis] [http] [info] https://blackzebra.irt.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:apache] [http] [info] https://brahma1.library.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:font-awesome] [http] [info] https://biomech.mem.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:google-font-api] [http] [info] https://biomech.mem.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:ms-iis] [http] [info] https://biomech.mem.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:php] [http] [info] https://biomech.mem.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:wordpress] [http] [info] https://biomech.mem.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:ms-iis] [http] [info] https://admissions.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:synology-diskstation] [http] [info] https://bethea.bioscience.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:nginx] [http] [info] https://bethea.bioscience.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:apache] [http] [info] https://beta-local.noc.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:microsoft-asp.net] [http] [info] https://advanceweb-test.irttest.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:ms-iis] [http] [info] https://advanceweb-test.irttest.drexel.edu
+[2021-07-23 16:42:01] [tech-detect:zurb-foundation] [http] [info] https://cabrini-learn.irttest.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:php] [http] [info] https://bseg.cae.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:slick] [http] [info] https://bseg.cae.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:wordpress] [http] [info] https://bseg.cae.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:font-awesome] [http] [info] https://bseg.cae.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:google-font-api] [http] [info] https://bseg.cae.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:ms-iis] [http] [info] https://bseg.cae.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:ms-iis] [http] [info] https://carbon.irt.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:ms-iis] [http] [info] https://carbon.irttest.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:microsoft-asp.net] [http] [info] https://biomed.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:google-tag-manager] [http] [info] https://biomed.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:sitecore] [http] [info] https://biomed.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:ms-iis] [http] [info] https://biomed.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:nginx] [http] [info] https://centrecounty.cci.drexel.edu
+[2021-07-23 16:42:02] [tech-detect:nginx] [http] [info] https://ccijw347701.cci.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:google-font-api] [http] [info] https://cedipes.coe.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:ms-iis] [http] [info] https://cedipes.coe.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:cloudflare] [http] [info] https://alumni.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:ms-httpapi] [http] [info] https://ces-scgold-t1-pub2.irttest.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:php] [http] [info] https://citizenscientist.cae.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:wordpress] [http] [info] https://citizenscientist.cae.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:ms-iis] [http] [info] https://citizenscientist.cae.drexel.edu
+[2021-07-23 16:42:04] [tech-detect:bootstrap] [http] [info] https://candidquestion.irttest.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:bootstrap] [http] [info] https://cloud.ischool.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:apache] [http] [info] https://cloud.ischool.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:python] [http] [info] https://cloud.ischool.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:ms-iis] [http] [info] https://cepes1.ece.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:php] [http] [info] https://cepes1.ece.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:wordpress] [http] [info] https://cepes1.ece.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:google-font-api] [http] [info] https://cepes1.ece.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:materialize-css] [http] [info] https://cloud046.cci.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:google-font-api] [http] [info] https://cloud046.cci.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:nginx] [http] [info] https://cloud046.cci.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:zurb-foundation] [http] [info] https://chn.irt.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:nginx] [http] [info] https://chn.irt.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:php] [http] [info] https://asim.cae.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:wordpress] [http] [info] https://asim.cae.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:youtube] [http] [info] https://asim.cae.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:font-awesome] [http] [info] https://asim.cae.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:google-font-api] [http] [info] https://asim.cae.drexel.edu
+[2021-07-23 16:42:05] [tech-detect:ms-iis] [http] [info] https://asim.cae.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:nginx] [http] [info] https://cloud059.cci.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:nginx] [http] [info] https://cloud075.cci.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:apache] [http] [info] https://cloud006.cci.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:font-awesome] [http] [info] https://cloud006.cci.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:bootstrap] [http] [info] https://cloud006.cci.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:nginx] [http] [info] https://cloud089.cci.drexel.edu
+[2021-07-23 16:42:06] [tech-detect:apache] [http] [info] https://cloud106.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:ms-httpapi] [http] [info] https://cnhp.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:gitlab] [http] [info] https://cloud055.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:nginx] [http] [info] https://cloud055.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:atlassian-confluence] [http] [info] https://cloud.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:nginx] [http] [info] https://cloud.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:ms-httpapi] [http] [info] https://com-xpwsim001.irt.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:atlassian-confluence] [http] [info] https://cloud047.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:nginx] [http] [info] https://cloud047.cci.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:google-font-api] [http] [info] https://cluster01.coe.drexel.edu
+[2021-07-23 16:42:07] [tech-detect:ms-iis] [http] [info] https://cluster01.coe.drexel.edu
+[2021-07-23 16:42:08] [tech-detect:atlassian-confluence] [http] [info] https://cloud111.cci.drexel.edu
+[2021-07-23 16:42:08] [tech-detect:nginx] [http] [info] https://cloud111.cci.drexel.edu
+[2021-07-23 16:42:08] [tech-detect:nginx] [http] [info] https://cloud083.cci.drexel.edu
+[2021-07-23 16:42:08] [tech-detect:php] [http] [info] https://combustion.mem.drexel.edu
+[2021-07-23 16:42:08] [tech-detect:wordpress] [http] [info] https://combustion.mem.drexel.edu
+[2021-07-23 16:42:08] [tech-detect:ms-iis] [http] [info] https://combustion.mem.drexel.edu
+[2021-07-23 16:42:09] [tech-detect:ms-httpapi] [http] [info] https://ces-scgold-t1-pub1.irttest.drexel.edu
+[2021-07-23 16:42:09] [tech-detect:nginx] [http] [info] https://cloud086.cci.drexel.edu
+[2021-07-23 16:42:09] [tech-detect:ms-iis] [http] [info] https://conference1.materials.drexel.edu
+[2021-07-23 16:42:09] [tech-detect:google-font-api] [http] [info] https://conference1.materials.drexel.edu
+[2021-07-23 16:42:09] [tech-detect:ms-httpapi] [http] [info] https://coulter.drexel.edu
+[2021-07-23 16:42:09] [tech-detect:bootstrap] [http] [info] https://candidcampus.irttest.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:ms-iis] [http] [info] https://covid19-ism.coe.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:jsdelivr] [http] [info] https://cs360.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:font-awesome] [http] [info] https://cs360.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:bootstrap] [http] [info] https://cs360.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:apache] [http] [info] https://cs360.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:bootstrap] [http] [info] https://connect.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:ms-iis] [http] [info] https://cti-kpwsec004.irt.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:google-font-api] [http] [info] https://computational.materials.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:ms-iis] [http] [info] https://computational.materials.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:jsdelivr] [http] [info] https://cs550.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:font-awesome] [http] [info] https://cs550.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:bootstrap] [http] [info] https://cs550.cci.drexel.edu
+[2021-07-23 16:42:10] [tech-detect:apache] [http] [info] https://cs550.cci.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:ms-iis] [http] [info] https://cti-ktwsec001.irttest.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:angularjs] [http] [info] https://cti-xpwgen013.irt.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:angular] [http] [info] https://cti-xpwgen013.irt.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:bootstrap] [http] [info] https://cheminformatics.chemeng.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:apache] [http] [info] https://cheminformatics.chemeng.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:php] [http] [info] https://cheminformatics.chemeng.drexel.edu
+[2021-07-23 16:42:11] [tech-detect:ms-iis] [http] [info] https://cti-xpwmvp002.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:ms-iis] [http] [info] https://cicsp.cnhp.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:ms-httpapi] [http] [info] https://cti-xpwweb002.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:ms-iis] [http] [info] https://cti-xpwweb003.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:ms-iis] [http] [info] https://cti-xpwscc019.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:microsoft-asp.net] [http] [info] https://cti-xpwscc019.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:google-tag-manager] [http] [info] https://cti-xpwscc019.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:sitecore] [http] [info] https://cti-xpwscc019.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:google-font-api] [http] [info] https://cti-xpwscc008.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:bootstrap] [http] [info] https://cti-xpwscc008.irt.drexel.edu
+[2021-07-23 16:42:12] [tech-detect:ms-iis] [http] [info] https://cti-xpwscc005.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xpwweb007.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:microsoft-asp.net] [http] [info] https://cti-xpwscc020.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:google-tag-manager] [http] [info] https://cti-xpwscc020.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:sitecore] [http] [info] https://cti-xpwscc020.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xpwscc020.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:google-font-api] [http] [info] https://cti-xpwscc012.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xpwscc012.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:google-tag-manager] [http] [info] https://cti-xpwscc021.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:sitecore] [http] [info] https://cti-xpwscc021.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xpwscc021.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:microsoft-asp.net] [http] [info] https://cti-xpwscc021.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xtwadv001.irttest.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xpwscc004.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cti-xpwmvp001.irt.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:microsoft-asp.net] [http] [info] https://cs.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:google-tag-manager] [http] [info] https://cs.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:sitecore] [http] [info] https://cs.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://cs.drexel.edu
+[2021-07-23 16:42:13] [tech-detect:ms-iis] [http] [info] https://deptapp16.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:ms-iis] [http] [info] https://courses.coe.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:ms-iis] [http] [info] https://cti-upwsec004.irt.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:ms-iis] [http] [info] https://depttest16.irttest.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:apache] [http] [info] https://digimuse.westphal.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:ms-iis] [http] [info] https://cti-xtwscc003.irttest.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:microsoft-asp.net] [http] [info] https://cti-xtwscc009.irttest.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:google-tag-manager] [http] [info] https://cti-xtwscc009.irttest.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:sitecore] [http] [info] https://cti-xtwscc009.irttest.drexel.edu
+[2021-07-23 16:42:14] [tech-detect:ms-iis] [http] [info] https://cti-xtwscc009.irttest.drexel.edu
+[2021-07-23 16:42:15] [tech-detect:google-font-api] [http] [info] https://cluster09.coe.drexel.edu
+[2021-07-23 16:42:15] [tech-detect:ms-iis] [http] [info] https://cluster09.coe.drexel.edu
+[2021-07-23 16:42:15] [tech-detect:google-font-api] [http] [info] https://composite.materials.drexel.edu
+[2021-07-23 16:42:15] [tech-detect:ms-iis] [http] [info] https://composite.materials.drexel.edu
+[2021-07-23 16:42:15] [tech-detect:bootstrap] [http] [info] https://currentcatalog.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:microsoft-asp.net] [http] [info] https://diversitypreparedness-user.irttest.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:google-tag-manager] [http] [info] https://diversitypreparedness-user.irttest.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:sitecore] [http] [info] https://diversitypreparedness-user.irttest.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:ms-iis] [http] [info] https://diversitypreparedness-user.irttest.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:apache] [http] [info] https://display.soe.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:microsoft-asp.net] [http] [info] https://congrats.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:google-tag-manager] [http] [info] https://congrats.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:youtube] [http] [info] https://congrats.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:sitecore] [http] [info] https://congrats.drexel.edu
+[2021-07-23 16:42:16] [tech-detect:ms-iis] [http] [info] https://congrats.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:ms-iis] [http] [info] https://deptapp08.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:ms-iis] [http] [info] https://cti-utwsec001.irttest.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:bootstrap] [http] [info] https://docss.med.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:apache] [http] [info] https://docss.med.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:wordpress] [http] [info] https://dlux.cae.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:google-font-api] [http] [info] https://dlux.cae.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:ms-iis] [http] [info] https://dlux.cae.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:php] [http] [info] https://dlux.cae.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:google-tag-manager] [http] [info] https://discover.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:bootstrap] [http] [info] https://discover.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:sitecore] [http] [info] https://cti-xtwscc008.irttest.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:ms-iis] [http] [info] https://cti-xtwscc008.irttest.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:microsoft-asp.net] [http] [info] https://cti-xtwscc008.irttest.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:google-tag-manager] [http] [info] https://cti-xtwscc008.irttest.drexel.edu
+[2021-07-23 16:42:17] [tech-detect:apache] [http] [info] https://digm.drexel.edu
+[2021-07-23 16:42:18] [tech-detect:google-font-api] [http] [info] https://conference2.materials.drexel.edu
+[2021-07-23 16:42:18] [tech-detect:ms-iis] [http] [info] https://conference2.materials.drexel.edu
+[2021-07-23 16:42:18] [tech-detect:font-awesome] [http] [info] https://dragonlink.drexel.edu
+[2021-07-23 16:42:18] [tech-detect:google-font-api] [http] [info] https://dragonlink.drexel.edu
+[2021-07-23 16:42:18] [tech-detect:ms-httpapi] [http] [info] https://cti-xpwweb001.irt.drexel.edu
+[2021-07-23 16:42:18] [tech-detect:ms-iis] [http] [info] https://dk12.ece.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:ms-iis] [http] [info] https://dragonspot.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:kendo-ui] [http] [info] https://dragonspot.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:google-font-api] [http] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:express] [http] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:angular] [http] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:cloudflare] [http] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:angularjs] [http] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:font-awesome] [http] [info] https://dragonnetwork.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:ms-iis] [http] [info] https://dragonfly.drexel.edu
+[2021-07-23 16:42:19] [tech-detect:ms-iis] [http] [info] https://duapp3.drexel.edu
+[2021-07-23 16:42:20] [tech-detect:kendo-ui] [http] [info] https://dragonspot.irttest.drexel.edu
+[2021-07-23 16:42:20] [tech-detect:ms-iis] [http] [info] https://dragonspot.irttest.drexel.edu
+[2021-07-23 16:42:20] [tech-detect:apache] [http] [info] https://draco.physics.drexel.edu
+[2021-07-23 16:42:20] [tech-detect:php] [http] [info] https://draco.physics.drexel.edu
+[2021-07-23 16:42:20] [tech-detect:ms-httpapi] [http] [info] https://cti-xpwgen003.irt.drexel.edu
+[2021-07-23 16:42:22] [tech-detect:google-font-api] [http] [info] https://darrl.cae.drexel.edu
+[2021-07-23 16:42:22] [tech-detect:ms-iis] [http] [info] https://darrl.cae.drexel.edu
+[2021-07-23 16:42:22] [tech-detect:ms-iis] [http] [info] https://duapp4.drexel.edu
+[2021-07-23 16:42:23] [tech-detect:atlassian-confluence] [http] [info] https://docs.cci.drexel.edu
+[2021-07-23 16:42:23] [tech-detect:nginx] [http] [info] https://docs.cci.drexel.edu
+[2021-07-23 16:42:24] [tech-detect:google-font-api] [http] [info] https://econcs.cci.drexel.edu
+[2021-07-23 16:42:24] [tech-detect:ms-iis] [http] [info] https://econcs.cci.drexel.edu
+[2021-07-23 16:42:24] [tech-detect:google-font-api] [http] [info] https://dneel.ece.drexel.edu
+[2021-07-23 16:42:24] [tech-detect:ms-iis] [http] [info] https://dneel.ece.drexel.edu
+[2021-07-23 16:42:25] [tech-detect:ms-iis] [http] [info] https://dpac.ece.drexel.edu
+[2021-07-23 16:42:25] [tech-detect:google-font-api] [http] [info] https://dpac.ece.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:google-font-api] [http] [info] https://electrochemistry.materials.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:ms-iis] [http] [info] https://electrochemistry.materials.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:php] [http] [info] https://electrochemistry.materials.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:wordpress] [http] [info] https://electrochemistry.materials.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:font-awesome] [http] [info] https://electrochemistry.materials.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:google-tag-manager] [http] [info] https://duo.online.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:ms-iis] [http] [info] https://ecsl.mem.drexel.edu
+[2021-07-23 16:42:26] [tech-detect:ms-iis] [http] [info] https://ems.drexel.edu
+[2021-07-23 16:42:27] [tech-detect:ms-iis] [http] [info] https://einstein.drexel.edu
+[2021-07-23 16:42:27] [tech-detect:ms-iis] [http] [info] https://duwde.irt.drexel.edu
+[2021-07-23 16:42:29] [tech-detect:google-font-api] [http] [info] https://engr12x.coe.drexel.edu
+[2021-07-23 16:42:29] [tech-detect:ms-iis] [http] [info] https://engr12x.coe.drexel.edu
+[2021-07-23 16:42:29] [tech-detect:ms-iis] [http] [info] https://engrapps.coe.drexel.edu
+[2021-07-23 16:42:30] [tech-detect:ms-iis] [http] [info] https://events.irttest.drexel.edu
+[2021-07-23 16:42:30] [tech-detect:microsoft-asp.net] [http] [info] https://events.irttest.drexel.edu
+[2021-07-23 16:42:30] [tech-detect:google-tag-manager] [http] [info] https://events.irttest.drexel.edu
+[2021-07-23 16:42:30] [tech-detect:sitecore] [http] [info] https://events.irttest.drexel.edu
+[2021-07-23 16:42:31] [tech-detect:php] [http] [info] https://faculty.lebow.drexel.edu
+[2021-07-23 16:42:31] [tech-detect:bootstrap] [http] [info] https://faculty.lebow.drexel.edu
+[2021-07-23 16:42:31] [tech-detect:nginx] [http] [info] https://faculty.lebow.drexel.edu
+[2021-07-23 16:42:31] [tech-detect:ms-iis] [http] [info] https://filemaker.lcc.drexel.edu
+[2021-07-23 16:42:31] [tech-detect:ms-iis] [http] [info] https://fm.excite.drexel.edu
+[2021-07-23 16:42:31] [tech-detect:ms-iis] [http] [info] https://fmweb1.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:apache] [http] [info] https://fastsupport.irt.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:ms-httpapi] [http] [info] https://farmhouse.irttest.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:microsoft-asp.net] [http] [info] https://faculty.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:react] [http] [info] https://faculty.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:google-tag-manager] [http] [info] https://faculty.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:sitecore] [http] [info] https://faculty.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:ms-iis] [http] [info] https://faculty.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:ms-iis] [http] [info] https://einstein.physics.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:ms-httpapi] [http] [info] https://franklin.irt.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:ms-iis] [http] [info] https://fibers.coe.drexel.edu
+[2021-07-23 16:42:32] [tech-detect:google-font-api] [http] [info] https://fibers.coe.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:apache] [http] [info] https://gethelp.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:ms-iis] [http] [info] https://esmupdate1.irttest.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:materialize-css] [http] [info] https://faceshields.cci.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:google-font-api] [http] [info] https://faceshields.cci.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:nginx] [http] [info] https://faceshields.cci.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:ms-iis] [http] [info] https://films.materials.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:php] [http] [info] https://films.materials.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:elementor] [http] [info] https://films.materials.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:wordpress] [http] [info] https://films.materials.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:font-awesome] [http] [info] https://films.materials.drexel.edu
+[2021-07-23 16:42:33] [tech-detect:google-font-api] [http] [info] https://films.materials.drexel.edu
+[2021-07-23 16:42:34] [tech-detect:bootstrap] [http] [info] https://employer.steinbright.drexel.edu
+[2021-07-23 16:42:34] [tech-detect:google-tag-manager] [http] [info] https://giving.drexel.edu
+[2021-07-23 16:42:34] [tech-detect:sitecore] [http] [info] https://giving.drexel.edu
+[2021-07-23 16:42:34] [tech-detect:ms-iis] [http] [info] https://giving.drexel.edu
+[2021-07-23 16:42:34] [tech-detect:microsoft-asp.net] [http] [info] https://giving.drexel.edu
+[2021-07-23 16:42:34] [tech-detect:ms-iis] [http] [info] https://esmupdate2.irttest.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:gitlab] [http] [info] https://git-bioimage.coe.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:apache] [http] [info] https://git-bioimage.coe.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:ms-iis] [http] [info] https://future.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:microsoft-asp.net] [http] [info] https://future.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:google-tag-manager] [http] [info] https://future.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:sitecore] [http] [info] https://future.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:microsoft-asp.net] [http] [info] https://giving-user.irttest.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:google-tag-manager] [http] [info] https://giving-user.irttest.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:sitecore] [http] [info] https://giving-user.irttest.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:ms-iis] [http] [info] https://giving-user.irttest.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:apache] [http] [info] https://help.cnhp.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:ms-iis] [http] [info] https://extreme.materials.drexel.edu
+[2021-07-23 16:42:35] [tech-detect:google-font-api] [http] [info] https://extreme.materials.drexel.edu
+[2021-07-23 16:42:36] [tech-detect:wordpress] [http] [info] https://evie.soe.drexel.edu
+[2021-07-23 16:42:36] [tech-detect:google-font-api] [http] [info] https://evie.soe.drexel.edu
+[2021-07-23 16:42:36] [tech-detect:apache] [http] [info] https://evie.soe.drexel.edu
+[2021-07-23 16:42:36] [tech-detect:ms-iis] [http] [info] https://esmupdate1.irt.drexel.edu
+[2021-07-23 16:42:36] [tech-detect:ms-iis] [http] [info] https://highwater.irt.drexel.edu
+[2021-07-23 16:42:36] [tech-detect:nginx] [http] [info] https://hive4mat.cci.drexel.edu
+[2021-07-23 16:42:37] [tech-detect:nginx] [http] [info] https://grand.drexel.edu
+[2021-07-23 16:42:37] [tech-detect:gitlab] [http] [info] https://gitlab.soe.drexel.edu
+[2021-07-23 16:42:37] [tech-detect:nginx] [http] [info] https://gitlab.soe.drexel.edu
+[2021-07-23 16:42:37] [tech-detect:bulma] [http] [info] https://gpt.cci.drexel.edu
+[2021-07-23 16:42:37] [tech-detect:nginx] [http] [info] https://gpt.cci.drexel.edu
+[2021-07-23 16:42:37] [tech-detect:nginx] [http] [info] https://humpty.cs.drexel.edu
+[2021-07-23 16:42:38] [tech-detect:google-tag-manager] [http] [info] https://gmat.lebow.drexel.edu
+[2021-07-23 16:42:38] [tech-detect:nginx] [http] [info] https://id.cci.drexel.edu
+[2021-07-23 16:42:38] [tech-detect:apache] [http] [info] https://icinga1.library.drexel.edu
+[2021-07-23 16:42:38] [tech-detect:ms-iis] [http] [info] https://helpdesk.coe.drexel.edu
+[2021-07-23 16:42:38] [tech-detect:google-font-api] [http] [info] https://helpdesk.coe.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:wordpress] [http] [info] https://ice.ece.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:font-awesome] [http] [info] https://ice.ece.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:google-font-api] [http] [info] https://ice.ece.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:ms-iis] [http] [info] https://ice.ece.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:php] [http] [info] https://ice.ece.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:ms-httpapi] [http] [info] https://idm-api-t.irttest.drexel.edu
+[2021-07-23 16:42:39] [tech-detect:ms-iis] [http] [info] https://hubo.ece.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:google-font-api] [http] [info] https://hwcvd9.chemeng.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:ms-iis] [http] [info] https://hwcvd9.chemeng.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:akamai] [http] [info] https://image.email.online.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:ms-iis] [http] [info] https://idm-api.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:ms-iis] [http] [info] https://ill.library.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:apache] [http] [info] https://gambit.ece.drexel.edu
+[2021-07-23 16:42:40] [tech-detect:ms-iis] [http] [info] https://illtest.library.drexel.edu
+[2021-07-23 16:42:41] [tech-detect:google-tag-manager] [http] [info] https://impact.giving.drexel.edu
+[2021-07-23 16:42:41] [tech-detect:webflow] [http] [info] https://impact.giving.drexel.edu
+[2021-07-23 16:42:41] [tech-detect:apache] [http] [info] https://icinga2.library.drexel.edu
+[2021-07-23 16:42:41] [tech-detect:drupal] [http] [info] https://idea-isle-staging.library.drexel.edu
+[2021-07-23 16:42:41] [tech-detect:apache] [http] [info] https://idea-isle-staging.library.drexel.edu
+[2021-07-23 16:42:41] [tech-detect:ms-iis] [http] [info] https://intranet.cci.drexel.edu
+[2021-07-23 16:42:42] [tech-detect:nginx] [http] [info] https://git.lebow.drexel.edu
+[2021-07-23 16:42:42] [tech-detect:nginx] [http] [info] https://hive2.cci.drexel.edu
+[2021-07-23 16:42:42] [tech-detect:kendo-ui] [http] [info] https://infoed-dev.irttest.drexel.edu
+[2021-07-23 16:42:42] [tech-detect:ms-iis] [http] [info] https://infoed-dev.irttest.drexel.edu
+[2021-07-23 16:42:42] [tech-detect:google-font-api] [http] [info] https://idrive.drexel.edu
+[2021-07-23 16:42:42] [tech-detect:nginx] [http] [info] https://idrive.drexel.edu
+[2021-07-23 16:42:43] [tech-detect:wordpress] [http] [info] https://johnfryblog.drexel.edu
+[2021-07-23 16:42:43] [tech-detect:google-tag-manager] [http] [info] https://johnfryblog.drexel.edu
+[2021-07-23 16:42:43] [tech-detect:google-font-api] [http] [info] https://johnfryblog.drexel.edu
+[2021-07-23 16:42:43] [tech-detect:django] [http] [info] https://intranet-staging.cci.drexel.edu
+[2021-07-23 16:42:43] [tech-detect:nginx] [http] [info] https://intranet-staging.cci.drexel.edu
+[2021-07-23 16:42:44] [tech-detect:nginx] [http] [info] https://korman110-mastercontroller.irt.drexel.edu
+[2021-07-23 16:42:44] [tech-detect:wordpress] [http] [info] https://is4health.cci.drexel.edu
+[2021-07-23 16:42:44] [tech-detect:google-font-api] [http] [info] https://is4health.cci.drexel.edu
+[2021-07-23 16:42:44] [tech-detect:ms-iis] [http] [info] https://is4health.cci.drexel.edu
+[2021-07-23 16:42:44] [tech-detect:php] [http] [info] https://is4health.cci.drexel.edu
+[2021-07-23 16:42:46] [tech-detect:apache] [http] [info] https://lambda.cs.drexel.edu
+[2021-07-23 16:42:46] [tech-detect:google-font-api] [http] [info] https://jay.irt.drexel.edu
+[2021-07-23 16:42:46] [tech-detect:apache] [http] [info] https://jay.irt.drexel.edu
+[2021-07-23 16:42:48] [tech-detect:apache] [http] [info] https://idea.library.drexel.edu
+[2021-07-23 16:42:48] [tech-detect:drupal] [http] [info] https://idea.library.drexel.edu
+[2021-07-23 16:42:49] [tech-detect:bootstrap] [http] [info] https://intranet.lebow.drexel.edu
+[2021-07-23 16:42:49] [tech-detect:nginx] [http] [info] https://intranet.lebow.drexel.edu
+[2021-07-23 16:42:49] [tech-detect:php] [http] [info] https://intranet.lebow.drexel.edu
+[2021-07-23 16:42:50] [tech-detect:apache] [http] [info] https://kplsrs01.irt.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:nginx] [http] [info] https://korman110-podatp.irt.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:ms-iis] [http] [info] https://inventory.library.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:nginx] [http] [info] https://korman110-podctp.irt.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:nginx] [http] [info] https://kplstingar01.irt.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:zurb-foundation] [http] [info] https://kplstingar01.irt.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:zurb-foundation] [http] [info] https://learn9.irttest.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:animate.css] [http] [info] https://learn9.irttest.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:zurb-foundation] [http] [info] https://learning.drexel.edu
+[2021-07-23 16:42:51] [tech-detect:animate.css] [http] [info] https://learning.drexel.edu
+[2021-07-23 16:42:52] [tech-detect:nginx] [http] [info] https://lf.irt.drexel.edu
+[2021-07-23 16:42:52] [tech-detect:font-awesome] [http] [info] https://libcal.library.drexel.edu
+[2021-07-23 16:42:52] [tech-detect:bootstrap] [http] [info] https://libcal.library.drexel.edu
+[2021-07-23 16:42:52] [tech-detect:nginx] [http] [info] https://libcal.library.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:microsoft-asp.net] [http] [info] https://lidratool.cae.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:ms-iis] [http] [info] https://lidratool.cae.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:ms-iis] [http] [info] https://lcss.cae.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:apache] [http] [info] https://linux.cci.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:bootstrap] [http] [info] https://lcbwww.lebow.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:nginx] [http] [info] https://lcbwww.lebow.drexel.edu
+[2021-07-23 16:42:53] [tech-detect:php] [http] [info] https://lcbwww.lebow.drexel.edu
+[2021-07-23 16:42:54] [tech-detect:microsoft-asp.net] [http] [info] https://library.drexel.edu
+[2021-07-23 16:42:54] [tech-detect:google-tag-manager] [http] [info] https://library.drexel.edu
+[2021-07-23 16:42:54] [tech-detect:sitecore] [http] [info] https://library.drexel.edu
+[2021-07-23 16:42:54] [tech-detect:ms-iis] [http] [info] https://library.drexel.edu
+[2021-07-23 16:42:54] [tech-detect:zurb-foundation] [http] [info] https://learn9-stage.irttest.drexel.edu
+[2021-07-23 16:42:54] [tech-detect:animate.css] [http] [info] https://learn9-stage.irttest.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:bootstrap] [http] [info] https://lincs.cci.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:google-font-api] [http] [info] https://lincs.cci.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:nginx] [http] [info] https://lincs.cci.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:font-awesome] [http] [info] https://lincs.cci.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:apache] [http] [info] https://linux.ischool.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:apache] [http] [info] https://ltgmedia.online.drexel.edu
+[2021-07-23 16:42:55] [tech-detect:ms-iis] [http] [info] https://lcb-dp1.lebow.drexel.edu
+[2021-07-23 16:42:56] [tech-detect:bootstrap] [http] [info] https://login.drexel.edu
+[2021-07-23 16:42:58] [tech-detect:ms-iis] [http] [info] https://maltese.irt.drexel.edu
+[2021-07-23 16:42:58] [tech-detect:font-awesome] [http] [info] https://mandell-signage.westphal.drexel.edu
+[2021-07-23 16:42:58] [tech-detect:nginx] [http] [info] https://mandell-signage.westphal.drexel.edu
+[2021-07-23 16:42:58] [tech-detect:google-font-api] [http] [info] https://lists.ece.drexel.edu
+[2021-07-23 16:42:58] [tech-detect:ms-iis] [http] [info] https://lists.ece.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:nginx] [http] [info] https://lincs.ischool.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:google-tag-manager] [http] [info] https://lebow.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:drupal] [http] [info] https://lebow.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:nginx] [http] [info] https://lebow.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:php] [http] [info] https://lebow.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:microsoft-asp.net] [http] [info] https://med.library.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:google-tag-manager] [http] [info] https://med.library.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:sitecore] [http] [info] https://med.library.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:ms-iis] [http] [info] https://med.library.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:wordpress] [http] [info] https://max.materials.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:ms-iis] [http] [info] https://max.materials.drexel.edu
+[2021-07-23 16:42:59] [tech-detect:php] [http] [info] https://max.materials.drexel.edu
+[2021-07-23 16:43:00] [tech-detect:wordpress] [http] [info] https://mcd.ischool.drexel.edu
+[2021-07-23 16:43:00] [tech-detect:apache] [http] [info] https://mcd.ischool.drexel.edu
+[2021-07-23 16:43:00] [tech-detect:php] [http] [info] https://mcd.ischool.drexel.edu
+[2021-07-23 16:43:00] [tech-detect:ms-iis] [http] [info] https://media.irt.drexel.edu
+[2021-07-23 16:43:00] [tech-detect:zurb-foundation] [http] [info] https://learn.drexel.edu
+[2021-07-23 16:43:00] [tech-detect:animate.css] [http] [info] https://learn.drexel.edu
+[2021-07-23 16:43:01] [tech-detect:google-font-api] [http] [info] https://mega.mem.drexel.edu
+[2021-07-23 16:43:01] [tech-detect:ms-iis] [http] [info] https://mega.mem.drexel.edu
+[2021-07-23 16:43:02] [tech-detect:ms-iis] [http] [info] https://met-wiki.ece.drexel.edu
+[2021-07-23 16:43:02] [tech-detect:wordpress] [http] [info] https://microbes.cae.drexel.edu
+[2021-07-23 16:43:02] [tech-detect:google-font-api] [http] [info] https://microbes.cae.drexel.edu
+[2021-07-23 16:43:02] [tech-detect:ms-iis] [http] [info] https://microbes.cae.drexel.edu
+[2021-07-23 16:43:02] [tech-detect:php] [http] [info] https://microbes.cae.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:google-font-api] [http] [info] https://misl.ece.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:ms-iis] [http] [info] https://misl.ece.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:php] [http] [info] https://misl.ece.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:wordpress] [http] [info] https://misl.ece.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:font-awesome] [http] [info] https://misl.ece.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:ms-iis] [http] [info] https://lxu-uniprint.library.drexel.edu
+[2021-07-23 16:43:03] [tech-detect:bootstrap] [http] [info] https://login.irttest.drexel.edu
+[2021-07-23 16:43:04] [tech-detect:ms-iis] [http] [info] https://mudbank.irttest.drexel.edu
+[2021-07-23 16:43:04] [tech-detect:microsoft-asp.net] [http] [info] https://m.library.drexel.edu
+[2021-07-23 16:43:04] [tech-detect:google-tag-manager] [http] [info] https://m.library.drexel.edu
+[2021-07-23 16:43:04] [tech-detect:sitecore] [http] [info] https://m.library.drexel.edu
+[2021-07-23 16:43:04] [tech-detect:ms-iis] [http] [info] https://m.library.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:nginx] [http] [info] https://matrix.cci.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:font-awesome] [http] [info] https://macro.materials.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:google-font-api] [http] [info] https://macro.materials.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:ms-iis] [http] [info] https://macro.materials.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:php] [http] [info] https://macro.materials.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:wordpress] [http] [info] https://macro.materials.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:wordpress] [http] [info] https://mcmblab.mem.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:ms-iis] [http] [info] https://mcmblab.mem.drexel.edu
+[2021-07-23 16:43:05] [tech-detect:php] [http] [info] https://mcmblab.mem.drexel.edu
+[2021-07-23 16:43:10] [tech-detect:nginx] [http] [info] https://mtp.cci.drexel.edu
+[2021-07-23 16:43:11] [tech-detect:google-font-api] [http] [info] https://mtdg.mse.drexel.edu
+[2021-07-23 16:43:11] [tech-detect:ms-iis] [http] [info] https://mtdg.mse.drexel.edu
+[2021-07-23 16:43:11] [tech-detect:ms-iis] [http] [info] https://myhousing.drexel.edu
+[2021-07-23 16:43:11] [tech-detect:google-font-api] [http] [info] https://multiscalemodeling.mem.drexel.edu
+[2021-07-23 16:43:11] [tech-detect:ms-iis] [http] [info] https://multiscalemodeling.mem.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:google-font-api] [http] [info] https://mtdg.materials.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:ms-iis] [http] [info] https://mtdg.materials.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:google-font-api] [http] [info] https://mxeneconference.coe.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:ms-iis] [http] [info] https://mxeneconference.coe.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:php] [http] [info] https://mxeneconference.coe.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:wordpress] [http] [info] https://mxeneconference.coe.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:font-awesome] [http] [info] https://mxeneconference.coe.drexel.edu
+[2021-07-23 16:43:12] [tech-detect:animate.css] [http] [info] https://mxeneconference.coe.drexel.edu
+[2021-07-23 16:45:44] [oidc-detect] [http] [info] https://cloud055.cci.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:45:49] [oidc-detect] [http] [info] https://cti-xpwscc008.irt.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:46:01] [oidc-detect] [http] [info] https://git-bioimage.coe.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:46:01] [oidc-detect] [http] [info] https://gitlab.soe.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:46:02] [oidc-detect] [http] [info] https://gitlab.cci.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:46:02] [oidc-detect] [http] [info] https://git.lebow.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:46:05] [wp-license-file] [http] [info] http://cloud035.cci.drexel.edu/license.txt
+[2021-07-23 16:46:07] [wp-license-file] [http] [info] https://4dprinting.mem.drexel.edu/license.txt
+[2021-07-23 16:46:09] [oidc-detect] [http] [info] https://lcb-gl.lebow.drexel.edu/.well-known/openid-configuration
+[2021-07-23 16:46:14] [wp-license-file] [http] [info] https://biomech.mem.drexel.edu/license.txt
+[2021-07-23 16:46:14] [wp-license-file] [http] [info] https://bseg.cae.drexel.edu/license.txt
+[2021-07-23 16:46:17] [wp-license-file] [http] [info] https://cepes1.ece.drexel.edu/license.txt
+[2021-07-23 16:46:20] [wp-license-file] [http] [info] https://combustion.mem.drexel.edu/license.txt
+[2021-07-23 16:46:22] [wp-license-file] [http] [info] https://cs.drexel.edu/license.txt
+[2021-07-23 16:46:24] [wp-license-file] [http] [info] https://citizenscientist.cae.drexel.edu/license.txt
+[2021-07-23 16:46:28] [wp-license-file] [http] [info] https://dlux.cae.drexel.edu/license.txt
+[2021-07-23 16:46:34] [wp-license-file] [http] [info] https://electrochemistry.materials.drexel.edu/license.txt
+[2021-07-23 16:46:35] [wp-license-file] [http] [info] https://evie.soe.drexel.edu/license.txt
+[2021-07-23 16:46:36] [wp-license-file] [http] [info] https://films.materials.drexel.edu/license.txt
+[2021-07-23 16:46:44] [wp-license-file] [http] [info] https://is4health.cci.drexel.edu/license.txt
+[2021-07-23 16:46:44] [wp-license-file] [http] [info] https://johnfryblog.drexel.edu/license.txt
+[2021-07-23 16:46:47] [wp-license-file] [http] [info] https://ice.ece.drexel.edu/license.txt
+[2021-07-23 16:46:53] [wp-license-file] [http] [info] https://machineshop.coe.drexel.edu/license.txt
+[2021-07-23 16:46:53] [wp-license-file] [http] [info] https://macro.materials.drexel.edu/license.txt
+[2021-07-23 16:46:55] [wp-license-file] [http] [info] https://mcd.ischool.drexel.edu/license.txt
+[2021-07-23 16:46:55] [wp-license-file] [http] [info] https://mcmblab.mem.drexel.edu/license.txt
+[2021-07-23 16:46:56] [wp-license-file] [http] [info] https://max.materials.drexel.edu/license.txt
+[2021-07-23 16:46:59] [telerik-fileupload-detect] [http] [info] https://cti-xpwscc004.irt.drexel.edu/Telerik.Web.UI.WebResource.axd?type=rau
+[2021-07-23 16:47:07] [wp-license-file] [http] [info] https://mxene2020.coe.drexel.edu/license.txt
+[2021-07-23 16:51:27] [wordpress-directory-listing] [http] [info] http://cloud035.cci.drexel.edu/wp-content/uploads/
+[2021-07-23 16:51:29] [wordpress-directory-listing] [http] [info] http://cloud035.cci.drexel.edu/wp-includes/
+[2021-07-23 16:53:06] [openssh5.3-detect] [network] [low] mcd.ischool.drexel.edu:22
+[2021-07-23 16:55:14] [wordpress-directory-listing] [http] [info] https://mcd.ischool.drexel.edu/wp-includes/
+[2021-07-23 16:58:44] [server-status-localhost] [http] [low] http://ecrystals.chemistry.drexel.edu/server-status
+[2021-07-23 17:16:39] [swagger-api] [http] [info] https://cs360.cci.drexel.edu/api/swagger.json
+[2021-07-23 17:16:41] [swagger-api] [http] [info] https://cs360.cci.drexel.edu/api/swagger.yaml
+[2021-07-23 17:16:53] [swagger-api] [http] [info] https://cs550.cci.drexel.edu/api/swagger.json
+[2021-07-23 17:16:55] [swagger-api] [http] [info] https://cs550.cci.drexel.edu/api/swagger.yaml
+[2021-07-23 17:21:07] [swagger-api] [http] [info] https://dragonlink.drexel.edu/api/docs/
+[2021-07-23 17:23:55] [tomcat-scripts] [http] [info] http://cloud073.cci.drexel.edu/examples/websocket/index.xhtml
+[2021-07-23 17:24:42] [tomcat-scripts] [http] [info] http://datasar.cci.drexel.edu/examples/websocket/index.xhtml
+[2021-07-23 17:25:15] [django-debug] [http] [medium] https://apps.cci.drexel.edu/NON_EXISTING_PATH/
+[2021-07-23 17:25:26] [django-debug] [http] [medium] https://cs360.cci.drexel.edu/NON_EXISTING_PATH/
+[2021-07-23 17:25:33] [django-debug] [http] [medium] https://cs550.cci.drexel.edu/NON_EXISTING_PATH/
+[2021-07-23 17:28:39] [sitecore-login-panel] [http] [info] https://cti-xtwscc008.irttest.drexel.edu/sitecore/admin/login.aspx
+[2021-07-23 17:28:44] [sitecore-login-panel] [http] [info] https://diversitypreparedness-user.irttest.drexel.edu/sitecore/admin/login.aspx
+[2021-07-23 17:28:57] [sitecore-login-panel] [http] [info] https://giving-user.irttest.drexel.edu/sitecore/admin/login.aspx
+[2021-07-23 17:35:53] [wordpress-user-enum] [http] [info] https://4dprinting.mem.drexel.edu/?author=1 [author/ctsadmin]
+[2021-07-23 17:36:09] [wordpress-user-enum] [http] [info] https://bseg.cae.drexel.edu/?author=1 [author/root]
+[2021-07-23 17:36:23] [wordpress-user-enum] [http] [info] https://dlux.cae.drexel.edu/?author=1 [author/coeadmin]
+[2021-07-23 17:36:26] [wordpress-user-enum] [http] [info] https://films.materials.drexel.edu/?author=1 [author/coeadmin]
+[2021-07-23 17:36:34] [wordpress-user-enum] [http] [info] https://johnfryblog.drexel.edu/?author=1 [author/mmd25]
+[2021-07-23 17:36:46] [wordpress-user-enum] [http] [info] https://max.materials.drexel.edu/?author=1 [author/coeadmin]
+[2021-07-23 17:36:47] [wordpress-user-enum] [http] [info] https://machineshop.coe.drexel.edu/?author=1 [author/coeadmin]
+[2021-07-23 17:41:25] [detect-rsyncd] [network] [info] gambit.ece.drexel.edu:873 [RSYNCD: 31.0]
+[2021-07-24 11:26:54] [web-config] [http] [info] https://idea-isle-staging.library.drexel.edu/web.config
+[2021-07-24 11:26:54] [web-config] [http] [info] https://idea.library.drexel.edu/web.config
+[2021-07-24 11:30:07] [gitlab-detect] [http] [info] https://cloud055.cci.drexel.edu/users/sign_in
+[2021-07-24 11:30:34] [gitlab-detect] [http] [info] https://gitlab.cci.drexel.edu/users/sign_in
+[2021-07-24 11:30:35] [gitlab-detect] [http] [info] https://git-bioimage.coe.drexel.edu/users/sign_in
+[2021-07-24 11:30:41] [gitlab-detect] [http] [info] https://gitlab.soe.drexel.edu/users/sign_in
+[2021-07-24 11:33:27] [jira-unauthenticated-installed-gadgets] [http] [info] https://cloud111.cci.drexel.edu/rest/config/1.0/directory
+[2021-07-24 11:33:34] [jira-unauthenticated-installed-gadgets] [http] [info] https://docs.cci.drexel.edu/rest/config/1.0/directory
+[2021-07-24 11:33:37] [ds-store-file] [http] [info] https://bioimagefs.coe.drexel.edu/.DS_Store
+[2021-07-24 11:33:38] [ds-store-file] [http] [info] https://bioimage.coe.drexel.edu/.DS_Store
+                [2021-07-24 11:44:38] [package-json] [http] [info] https://alumni.drexel.edu/package-lock.json
+[2021-07-24 11:48:10] [deprecated-sshv1-detection] [network] [medium] draco.physics.drexel.edu:22
+[2021-07-24 11:52:36] [dns-waf-detect:cloudflare] [dns] [info] https://alumni.drexel.edu
+[2021-07-24 11:52:52] [dns-waf-detect:cloudflare] [dns] [info] https://dragonnetwork.drexel.edu
+[2021-07-24 11:53:32] [phpmyadmin-panel] [http] [info] http://acva2010.cs.drexel.edu/phpmyadmin/
+[2021-07-24 11:53:49] [phpmyadmin-panel] [http] [info] http://cloud012.cci.drexel.edu/phpmyadmin/
+[2021-07-24 11:55:20] [phpmyadmin-panel] [http] [info] http://metadatace.cci.drexel.edu/phpmyadmin/
+[2021-07-24 12:04:31] [tomcat-version-detect:version] [http] [info] http://cloud073.cci.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.2]
+[2021-07-24 12:04:31] [tomcat-version-detect:version] [http] [info] http://crflogon.coe.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.26]
+[2021-07-24 12:04:34] [tomcat-version-detect:version] [http] [info] http://datasar.cci.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.2]
+[2021-07-24 12:04:45] [tomcat-version-detect:version] [http] [info] https://banner.drexel.edu/something_not_existing_ [Apache Tomcat/8.5.31]
+[2021-07-24 12:04:46] [tomcat-version-detect:version] [http] [info] https://bannersso.medaille.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.6]
+[2021-07-24 12:04:47] [tomcat-version-detect:version] [http] [info] https://bannersso.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.6]
+[2021-07-24 12:04:51] [tomcat-version-detect:version] [http] [info] https://buzzard.irt.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.45]
+[2021-07-24 12:05:06] [tomcat-version-detect:version] [http] [info] https://dwapps.irttest.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.45]
+[2021-07-24 12:05:09] [tomcat-version-detect:version] [http] [info] https://dwapps.irt.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.45]
+[2021-07-24 12:05:12] [tomcat-version-detect:version] [http] [info] https://dwapps.drexel.edu/something_not_existing_ [Apache Tomcat/9.0.45]
+[2021-07-24 12:05:30] [tomcat-version-detect:version] [http] [info] https://kdlords01.irttest.drexel.edu/something_not_existing_ [Apache Tomcat/8.5.31]
+[2021-07-24 12:16:47] [basic-cors-misconfig] [http] [info] https://inst-lab2-21.decc.drexel.edu
+[2021-07-24 12:16:55] [basic-cors-misconfig] [http] [info] https://lawfac10.law.drexel.edu
+[2021-07-24 12:17:28] [phpinfo-files] [http] [low] http://acva2010.cs.drexel.edu/phpinfo.php [5.6.4]
+[2021-07-24 12:18:00] [phpinfo-files] [http] [low] http://cloud012.cci.drexel.edu/phpinfo.php [5.6.4]
+[2021-07-24 12:19:22] [django-admin-panel] [http] [info] http://cloud025.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:19:38] [django-admin-panel] [http] [info] https://ace2dev.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:19:52] [django-admin-panel] [http] [info] https://cloud046.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:19:57] [django-admin-panel] [http] [info] https://cs550.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:20:02] [django-admin-panel] [http] [info] https://cs360.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:20:03] [phpinfo-files] [http] [low] http://metadatace.cci.drexel.edu/phpinfo.php [5.6.4]
+[2021-07-24 12:20:13] [django-admin-panel] [http] [info] https://faceshields.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:20:18] [django-admin-panel] [http] [info] https://gpt.cci.drexel.edu/admin/login/?next=/admin/
+[2021-07-24 12:20:31] [wordpress-xmlrpc-listmethods] [http] [info] http://cloud035.cci.drexel.edu/xmlrpc.php
+[2021-07-24 12:20:46] [gitlab-user-enumeration] [http] [info] https://cloud055.cci.drexel.edu/api/graphql
+[2021-07-24 12:21:06] [gitlab-user-enumeration] [http] [info] https://git-bioimage.coe.drexel.edu/api/graphql
+[2021-07-24 12:21:06] [gitlab-user-enumeration] [http] [info] https://gitlab.soe.drexel.edu/api/graphql
+[2021-07-24 12:21:06] [gitlab-user-enumeration] [http] [info] https://git.lebow.drexel.edu/api/graphql
+[2021-07-24 12:21:06] [gitlab-user-enumeration] [http] [info] https://gitlab.cci.drexel.edu/api/graphql
+[2021-07-24 12:21:17] [gitlab-user-enumeration] [http] [info] https://lcb-gl.lebow.drexel.edu/api/graphql
+[2021-07-24 12:21:22] [wordpress-xmlrpc-listmethods] [http] [info] https://is4health.cci.drexel.edu/xmlrpc.php
+[2021-07-24 12:24:32] [phpinfo-files] [http] [low] https://cs.drexel.edu/phpinfo.php [7.2.24]

@@ -1,0 +1,136 @@
+In shodan, ssl.cert.subject.CN:"target.*"+200
+
+anonymous:anonymous
+
+
+
+
+Bug Bounty Hunting Guide for Absolute Beginners: -
+
+Bug Hunting is a very vast field and there's a lot to study. So Beginners in this field are lacking proper guidance and appropriate study resources. So this small guide will provide you with the path on how to start and from where to study. So whatever I'm suggesting is my Experiences and my learnings. The guide is Completely Beginner friendly and I hope you may get something from it.
+
+1. You don't have to directly jump into Bug Hunting. First, you have to clear your Basics. Learn Computer Fundamentals and all the Input and Output Operations.
+
+2. You must have in-depth knowledge about the Internet and Networking that how connections are made, how the requests and HTTP Protocols works. You must have complete knowledge about the OSI model and all the TCP/IP Protocols.
+
+3. After learning all those Stuff, you must familiar with various Operating Systems like Linux, Windows, Mac OS.
+
+4. When your basic Concepts are clear, this is the time you need to learn various types of Vulnerabilities. For a deep understanding of the Bugs, you must Prefer a book called "Web Application Hacker's Handbook". The book is very beginner-friendly and it's like 'Bible' for Bug Hunters.
+
+Download Link.
+https://lnkd.in/eidsiDm
+
+5. Learning from other's Experiences is also very important. So I'm sharing some write-ups and blogs with you. Just go through these write-ups and blogs. There are so many online resources available for free. These resources will help you know the actual scenarios and proper way of identifying the Bugs: -
+
+Resources-for-Beginner-Bug-Bounty-Hunters
+https://lnkd.in/ebQcrxB
+
+The Bug Hunter's Methodology (TBHM)
+https://lnkd.in/evBgKFD
+
+Bug Bounty Reference
+https://lnkd.in/ekvPwVa
+
+Bug Bounty Guide
+https://lnkd.in/ezA8Ypu
+
+Security Bug Writeup 
+https://lnkd.in/eS8sVvC
+https://lnkd.in/eFKMwYC
+
+Bug Bounty Hunting Methodology by BugCrowd
+https://lnkd.in/e5R3UY6
+
+HackerOne 101 Complete Training
+https://lnkd.in/eNwNKKx
+
+My Advice Before You Proceed - 
+
+First, If you are a beginner in this field, then don't make Bug Hunting your full-time Carrier. First Join any Company and do bug hunting only part-time. You can make it a full-time career later. 
+
+Second, you may face various problems like initially you not be able to find bugs but you won't have to lose hope. Patience is the key to success in this domain. Just keep doing practice and focus on learning.
+
+#security #career #training #bugbountytips
+
+hackerone.com/reports/723118
+https://hackerone.com/reports/751577
+https://hackerone.com/reports/788375
+https://hackerone.com/reports/258260
+https://hackerone.com/reports/547663
+https://hackerone.com/reports/587687
+https://hackerone.com/reports/725569
+https://hackerone.com/reports/544329
+https://hackerone.com/reports/439729
+https://hackerone.com/reports/661978
+hackerone.com/reports/661978
+https://hackerone.com/reports/199321
+https://hackerone.com/reports/285432
+https://hackerone.com/reports/300179
+https://hackerone.com/reports/302485
+https://hackerone.com/reports/333767
+https://hackerone.com/reports/397031
+https://hackerone.com/reports/317332
+https://hackerone.com/reports/152407
+
+hackerone.com/reports/318751
+https://hackerone.com/reports/42587
+https://hackerone.com/reports/204984
+https://hackerone.com/reports/404797
+https://hackerone.com/reports/243943
+https://hackerone.com/reports/156537
+https://hackerone.com/reports/398316
+https://hackerone.com/reports/181748
+https://hackerone.com/reports/227522
+
+
+
+
+XSS TIP:
+This works in an app with logging enabled.
+Try to put your blind payloads in headers like:
+X-Forwarded-For
+X-Forwarded
+Forwarded
+X-Real-IP
+X-Client-IP
+Servers try to get client IP from these which can appear in admin logs in raw. Try to forge errors for better results.
+
+
+
+
+Found bug with custom wordlist from robots.txt 
+
+step 1-
+httpx -l urls.txt -paths /robots.txt -silent -o robots-url.txt
+
+step 2- 
+for url in $(cat robots-url.txt);do http -b $url | grep 'Disallow' | awk -F ' ' '{print $2}' | cut -c 2- | anew robot-words.txt;done
+
+
+
+2FA Bypass Checklist:YouTube Session: http://tinyurl.com/2FAtuhin1729
+
+1. Response/Status Code Manipulation
+2. Brute force token.
+3. Token does not expires after usage.
+4. Request 2 tokens from account A and V. Use the A's token in V's account.
+5. Try to go directly to the dashboard URL without solving the 2FA. If not success try adding the referral header to the 2FA page url while going to dashboard.
+6. Search the 2FA code in response and js files.
+7. CSRF/Clickjacking to disable 2FA.
+8. Backup code abuse using these methods.
+9. Enabling 2FA doesn't expire previous sessions.
+10. Login using OAuth to bypass 2FA.
+11. No 2FA required for disabling 2FA.
+12. Password can be reset via forgot password without 2FA.
+13. Enter same number of 0(s) in the code.
+14. No 2FA on reset password.
+15. Request Manipulation: Try sending null response for JSON, discover and change params like "otprequired" to false, remove the 2fa code, remove both code and parameter, in JSON give email as an array, my medium write-up (Link is in bio).
+16. OpenID Misconfiguration: https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/
+17. Code doesn't expire after few hours.
+18. After login to victim's account, generate the backup code generation request from your browser. You may able to get the backup codes of victim.
+
+
+
+
+
+
